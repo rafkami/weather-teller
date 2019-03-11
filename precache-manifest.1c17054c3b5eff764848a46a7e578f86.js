@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/rafkami/weather-teller/static/css/main.21d52133.chunk.css"
   },
   {
-    "revision": "0b08038372e0d092c3afaa8f9c43a02b",
+    "revision": "6eb3161519420bcf1b006f9e9ec11f48",
     "url": "/rafkami/weather-teller/index.html"
   }
 ];
