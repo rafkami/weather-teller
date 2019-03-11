@@ -1,0 +1,13 @@
+.app {
+  width: 100vw;
+  min-height: 100vh;
+  text-align: center;
+  background-image: url(../images/rainbow-1909_1920.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.app-container {
+  min-height: 95vh;
+}

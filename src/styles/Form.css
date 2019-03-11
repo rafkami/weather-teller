@@ -1,0 +1,93 @@
+form {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+button {
+  flex-grow: 1;
+  padding: 12px 18px;
+  font-family: "Roboto", sans-serif;
+  background-color: black;
+  color: #bbb;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1rem;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #360816;
+  border-color: #bbb;
+}
+
+.search-wrapper {
+  margin: 0 auto;
+  width: 250px;
+}
+
+.react-autosuggest__input {
+  flex-grow: 3;
+  padding: 12px 18px;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+}
+
+.react-autosuggest__input--focused {
+  outline: none;
+}
+
+.react-autosuggest__container {
+  position: relative;
+}
+
+.react-autosuggest__suggestions-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.react-autosuggest__suggestions-container {
+  display: none;
+}
+
+.react-autosuggest__suggestions-container--open {
+  display: block;
+  position: absolute;
+  text-align: left;
+  top: 35px;
+  width: 99.25%;
+  margin-top: 0.6rem;
+  border: 1px solid #aaa;
+  background-color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  border-radius: 4px;
+  z-index: 2;
+  max-height: 428px;
+  overflow-y: auto;
+}
+
+.react-autosuggest__suggestion {
+  cursor: pointer;
+  padding: 12px 18px;
+}
+
+.react-autosuggest__suggestion--highlighted {
+  background-color: #ddd;
+}
+
+@media (max-width: 768px) {
+  button,
+  .react-autosuggest__input,
+  .react-autosuggest__suggestions-container--open {
+    font-size: 0.8rem;
+  }
+  button,
+  .react-autosuggest__input {
+    padding: 8px 14px;
+  }
+}
