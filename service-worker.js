@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rafkami/weather-teller/precache-manifest.1c17054c3b5eff764848a46a7e578f86.js"
+  "/rafkami/weather-teller/precache-manifest.d1b3c9ba8e05cff130957445e1447912.js"
 );
 
 workbox.clientsClaim();
