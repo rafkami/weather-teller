@@ -4,15 +4,27 @@ import Form from "./Form";
 import Result from "./Result";
 import Footer from "./Footer";
 import "../styles/App.css";
+import { getGoogleMaps } from "./maps";
 
-//  some initial variables
+// initial state
 
-const google = window.google;
-
-const weatherAPIKey = "bfae98d5c94c0d9269ea9eb5224e2693";
-const timezoneAPIKey = "VS7P90IJ8KL9";
-const IPToken = "6e867cc4cd3a5e";
-const googleAPIKey = "AIzaSyBl3efYiJYIr2sYmV99VSlGfQNLr8EK5FM";
+const initialState = {
+  value: "",
+  suggestions: [],
+  city: "",
+  country: "",
+  latitude: "",
+  longitude: "",
+  temp: "",
+  icon: "",
+  description: "",
+  sunrise: "",
+  sunset: "",
+  wind: "",
+  pressure: "",
+  isMapVisible: false,
+  err: false
+};
 
 // preparation for getting suggestions in Form component, using downloaded DB of cities
 
@@ -22,15 +34,10 @@ const getSuggestions = value => {
   const escapeRegexCharacters = str =>
     str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   const inputValue = escapeRegexCharacters(value.trim().toLowerCase());
-  const inputLength = inputValue.length;
 
-  return inputValue === ""
-    ? []
-    : cityList
-        .filter(
-          city => city.name.toLowerCase().slice(0, inputLength) === inputValue
-        )
-        .slice(0, 50);
+  return cityList
+    .filter(city => city.name.toLowerCase().startsWith(inputValue))
+    .slice(0, 50);
 };
 
 const getSuggestionValue = suggestion =>
@@ -45,28 +52,12 @@ const renderSuggestion = (suggestion, { query, isHighlighted }) => (
 // the one and only class component
 
 class App extends Component {
-  state = {
-    value: "",
-    suggestions: [],
-    city: "",
-    country: "",
-    latitude: "",
-    longitude: "",
-    temp: "",
-    icon: "",
-    description: "",
-    sunrise: "",
-    sunset: "",
-    wind: "",
-    pressure: "",
-    map: false,
-    err: false
-  };
+  state = initialState;
 
   // starting with user's IP location in input field
 
   componentDidMount = () => {
-    const IPAPI = `//ipinfo.io/json?token=${IPToken}`;
+    const IPAPI = `//ipinfo.io/json?token=${process.env.REACT_APP_IPToken}`;
     fetch(IPAPI)
       .then(response => {
         if (response.status === 200) {
@@ -103,7 +94,7 @@ class App extends Component {
       sunset: "",
       wind: "",
       pressure: "",
-      map: false,
+      isMapVisible: false,
       err: false
     });
   };
@@ -124,64 +115,62 @@ class App extends Component {
 
   // getting the output for my search
 
-  handleSubmit = async e => {
+  handleSubmit = e => {
     e.preventDefault();
     const whereIDStarts = this.state.value.indexOf(":");
     const inputID = this.state.value.slice(whereIDStarts + 2);
     const ifIDmatches = cityList.find(city => city.id.toString() === inputID);
     const cityIDcheck = () =>
       ifIDmatches ? `id=${ifIDmatches.id}` : `q=${this.state.value}`;
-    const weatherAPI = `http://api.openweathermap.org/data/2.5/weather?${cityIDcheck()}&APPID=${weatherAPIKey}&units=metric`;
-    const timezoneAPI = `http://api.timezonedb.com/v2.1/get-time-zone?key=${timezoneAPIKey}&format=json&by=position&lat=${
-      this.state.latitude
-    }&lng=${this.state.longitude}`;
+    const weatherAPI = `http://api.openweathermap.org/data/2.5/weather?${cityIDcheck()}&APPID=${
+      process.env.REACT_APP_weatherAPIKey
+    }&units=metric`;
 
-    await fetch(weatherAPI)
+    fetch(weatherAPI)
       .then(response => {
         if (response.status === 200) {
           return response.json();
         } else throw Error("Cannot fetch data from server");
       })
       .then(data => {
-        this.setState(prevState => ({
-          suggestions: [],
-          city: prevState.value,
-          country: data.sys.country,
-          latitude: data.coord.lat,
-          longitude: data.coord.lon,
-          temp: data.main.temp.toFixed(1),
-          icon: data.weather[0].icon,
-          description: data.weather[0].description,
-          sunrise: data.sys.sunrise,
-          sunset: data.sys.sunset,
-          wind: data.wind.speed.toFixed(1),
-          pressure: data.main.pressure.toFixed(),
-          err: false
-        }));
-      })
-      .catch(err => {
-        console.log(err);
-        this.setState(prevState => ({
-          err: true,
-          city: prevState.value
-        }));
-      });
-    return await fetch(timezoneAPI)
-      .then(response => {
-        if (response.status === 200) {
-          return response.json();
-        } else throw Error("Cannot fetch timezone from server");
-      })
-      .then(result => {
-        const timezone = result.gmtOffset - 3600;
-        this.setState({
-          sunrise: new Date(
-            (this.state.sunrise + timezone) * 1000
-          ).toLocaleTimeString(),
-          sunset: new Date(
-            (this.state.sunset + timezone) * 1000
-          ).toLocaleTimeString()
-        });
+        const timezoneAPI = `http://api.timezonedb.com/v2.1/get-time-zone?key=${
+          process.env.REACT_APP_timezoneAPIKey
+        }&format=json&by=position&lat=${data.coord.lat}&lng=${data.coord.lon}`;
+        fetch(timezoneAPI)
+          .then(response => {
+            if (response.status === 200) {
+              return response.json();
+            } else throw Error("Cannot fetch timezone from server");
+          })
+          .then(result => {
+            const timezone = result.gmtOffset - 3600;
+            this.setState(prevState => ({
+              suggestions: [],
+              city: prevState.value,
+              country: data.sys.country,
+              latitude: data.coord.lat,
+              longitude: data.coord.lon,
+              temp: data.main.temp.toFixed(1),
+              icon: data.weather[0].icon,
+              description: data.weather[0].description,
+              sunrise: new Date(
+                (data.sys.sunrise + timezone) * 1000
+              ).toLocaleTimeString(),
+              sunset: new Date(
+                (data.sys.sunset + timezone) * 1000
+              ).toLocaleTimeString(),
+              wind: data.wind.speed.toFixed(1),
+              pressure: data.main.pressure.toFixed(),
+              err: false
+            }));
+          })
+          .catch(err => {
+            console.log(err);
+            this.setState(prevState => ({
+              err: true,
+              city: prevState.value
+            }));
+          });
       })
       .catch(err => {
         console.log(err);
@@ -195,58 +184,26 @@ class App extends Component {
   // clearing the data from both input and result (weather details)
 
   handleClear = () => {
-    this.setState({
-      value: "",
-      suggestions: [],
-      city: "",
-      country: "",
-      latitude: "",
-      longitude: "",
-      temp: "",
-      icon: "",
-      description: "",
-      sunrise: "",
-      sunset: "",
-      wind: "",
-      pressure: "",
-      map: false,
-      err: false
-    });
+    this.setState(initialState);
   };
 
-  // toggling map visibility available only after searching
+  // toggling map visibility (available only after searching)
 
   handleToggleMap = () => {
-    this.setState({
-      map: !this.state.map
-    });
-  };
-
-  // promise with a global handler for when API finishes loading, returning a promise for the Google Maps API
-
-  getGoogleMaps = () => {
-    if (!this.googleMapsPromise) {
-      this.googleMapsPromise = new Promise(resolve => {
-        window.resolveGoogleMapsPromise = () => {
-          resolve(google);
-          delete window.resolveGoogleMapsPromise;
-        };
-        const script = document.createElement("script");
-        script.src = `https://maps.googleapis.com/maps/api/js?key=${googleAPIKey}&callback=resolveGoogleMapsPromise`;
-        script.async = true;
-        script.defer = true;
-        document.body.appendChild(script);
-      });
-    }
-    return this.googleMapsPromise;
+    this.setState(prevState => ({
+      isMapVisible: !prevState.isMapVisible
+    }));
   };
 
   // initializing the actual map after loading the Google Maps API
 
   componentDidUpdate = (prevProps, prevState) => {
     const showMap = document.getElementById("result-map");
-    if (this.state.map !== prevState.map && this.state.map) {
-      this.getGoogleMaps().then(google => {
+    if (
+      this.state.isMapVisible !== prevState.isMapVisible &&
+      this.state.isMapVisible
+    ) {
+      getGoogleMaps().then(google => {
         const place = {
           lat: this.state.latitude,
           lng: this.state.longitude
@@ -255,16 +212,12 @@ class App extends Component {
           zoom: 12,
           center: place
         });
-        const marker = new window.google.maps.Marker({
-          position: place,
-          map: newMap
-        });
         showMap.style.height = "400px";
       });
     }
     if (
-      this.state.map !== prevState.map &&
-      !this.state.map &&
+      this.state.isMapVisible !== prevState.isMapVisible &&
+      !this.state.isMapVisible &&
       this.state.value === prevState.value
     ) {
       showMap.style.height = 0;
@@ -284,7 +237,7 @@ class App extends Component {
       sunset,
       wind,
       pressure,
-      map,
+      isMapVisible,
       err
     } = this.state;
     return (
@@ -311,7 +264,7 @@ class App extends Component {
             sunset={sunset}
             wind={wind}
             pressure={pressure}
-            map={map}
+            isMapVisible={isMapVisible}
             error={err}
             clear={this.handleClear}
             toggleMap={this.handleToggleMap}

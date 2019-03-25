@@ -65,9 +65,10 @@
 }
 
 #result-map {
-  margin: 20px auto;
+  margin: 20px auto 50px;
   width: 400px;
   height: 0px;
+  transition: 0.5s;
 }
 
 @media (max-width: 1080px) {
@@ -84,10 +85,13 @@
 
 @media (max-width: 768px) {
   .result-wrapper {
-    min-width: 400px;
+    min-width: 300px;
   }
   .result-wrapper h2,
   .result-wrapper h3 {
     font-size: 1.2rem;
+  }
+  #result-map {
+    max-width: 95%;
   }
 }

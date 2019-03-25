@@ -12,15 +12,15 @@ const Result = props => {
     sunset,
     pressure,
     wind,
-    map,
+    isMapVisible,
     error,
     clear,
     toggleMap
   } = props;
 
-  let content = null;
+  let content;
 
-  const source = `https://openweathermap.org/img/w/${icon}.png`;
+  const source = `//openweathermap.org/img/w/${icon}.png`;
 
   if (!error && city) {
     content = (
@@ -28,7 +28,10 @@ const Result = props => {
         <div className="result-wrapper">
           <button onClick={clear}>Clear</button>
           <h2>
-            In {city.charAt(0).toUpperCase() + city.slice(1, city.indexOf(","))}
+            In{" "}
+            {city.search(",") > 0
+              ? city.charAt(0).toUpperCase() + city.slice(1, city.indexOf(","))
+              : city.charAt(0).toUpperCase() + city.slice(1)}
             , {country}, the weather right now is as follows:
           </h2>
           <img src={source} alt="Weather icon" />
@@ -50,7 +53,7 @@ const Result = props => {
         </div>
         <div className="result-map-wrapper">
           <button onClick={toggleMap}>
-            {map ? "Hide map" : "Show on map"}
+            {isMapVisible ? "Hide map" : "Show on map"}
           </button>
           <div id="result-map" />
         </div>
