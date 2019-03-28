@@ -1,14 +1,14 @@
 {
-  "main.css": "/rafkami/weather-teller/static/css/main.05ce678f.chunk.css",
-  "main.js": "/rafkami/weather-teller/static/js/main.8b1126b3.chunk.js",
-  "main.js.map": "/rafkami/weather-teller/static/js/main.8b1126b3.chunk.js.map",
-  "runtime~main.js": "/rafkami/weather-teller/static/js/runtime~main.3d7715ac.js",
-  "runtime~main.js.map": "/rafkami/weather-teller/static/js/runtime~main.3d7715ac.js.map",
-  "static/js/2.072f9aee.chunk.js": "/rafkami/weather-teller/static/js/2.072f9aee.chunk.js",
-  "static/js/2.072f9aee.chunk.js.map": "/rafkami/weather-teller/static/js/2.072f9aee.chunk.js.map",
-  "index.html": "/rafkami/weather-teller/index.html",
-  "precache-manifest.d1b3c9ba8e05cff130957445e1447912.js": "/rafkami/weather-teller/precache-manifest.d1b3c9ba8e05cff130957445e1447912.js",
-  "service-worker.js": "/rafkami/weather-teller/service-worker.js",
-  "static/css/main.05ce678f.chunk.css.map": "/rafkami/weather-teller/static/css/main.05ce678f.chunk.css.map",
-  "static/media/App.css": "/rafkami/weather-teller/static/media/rainbow-1909_1920.37e36d3f.jpg"
+  "main.css": "/weather-teller/static/css/main.b357488d.chunk.css",
+  "main.js": "/weather-teller/static/js/main.bf13be5b.chunk.js",
+  "main.js.map": "/weather-teller/static/js/main.bf13be5b.chunk.js.map",
+  "runtime~main.js": "/weather-teller/static/js/runtime~main.ccb5f2e4.js",
+  "runtime~main.js.map": "/weather-teller/static/js/runtime~main.ccb5f2e4.js.map",
+  "static/js/2.072f9aee.chunk.js": "/weather-teller/static/js/2.072f9aee.chunk.js",
+  "static/js/2.072f9aee.chunk.js.map": "/weather-teller/static/js/2.072f9aee.chunk.js.map",
+  "index.html": "/weather-teller/index.html",
+  "precache-manifest.b9fcb18b221be6b74eaa000f6179f3a3.js": "/weather-teller/precache-manifest.b9fcb18b221be6b74eaa000f6179f3a3.js",
+  "service-worker.js": "/weather-teller/service-worker.js",
+  "static/css/main.b357488d.chunk.css.map": "/weather-teller/static/css/main.b357488d.chunk.css.map",
+  "static/media/App.css": "/weather-teller/static/media/rainbow-1909_1920.37e36d3f.jpg"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rafkami/weather-teller/precache-manifest.d1b3c9ba8e05cff130957445e1447912.js"
+  "/weather-teller/precache-manifest.b9fcb18b221be6b74eaa000f6179f3a3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/rafkami/weather-teller/index.html", {
+workbox.routing.registerNavigationRoute("/weather-teller/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
