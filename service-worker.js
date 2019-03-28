@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/weather-teller/precache-manifest.b9fcb18b221be6b74eaa000f6179f3a3.js"
+  "/weather-teller/precache-manifest.82a00c2e9d79119887164ed47f1979b9.js"
 );
 
 workbox.clientsClaim();
