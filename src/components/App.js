@@ -143,7 +143,7 @@ class App extends Component {
             } else throw Error("Cannot fetch timezone from server");
           })
           .then(result => {
-            const timezone = result.gmtOffset - 3600;
+            const timezone = result.gmtOffset - 7200;
             this.setState(prevState => ({
               suggestions: [],
               city: prevState.value,
