@@ -11,7 +11,7 @@
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5"
   },
-  "homepage": "https://rafkami.github.io/weather-teller/",
+  "homepage": "https://weather-teller.netlify.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

@@ -122,7 +122,7 @@ class App extends Component {
     const ifIDmatches = cityList.find(city => city.id.toString() === inputID);
     const cityIDcheck = () =>
       ifIDmatches ? `id=${ifIDmatches.id}` : `q=${this.state.value}`;
-    const weatherAPI = `http://api.openweathermap.org/data/2.5/weather?${cityIDcheck()}&APPID=${
+    const weatherAPI = `//api.openweathermap.org/data/2.5/weather?${cityIDcheck()}&APPID=${
       process.env.REACT_APP_weatherAPIKey
     }&units=metric`;
 
@@ -133,7 +133,7 @@ class App extends Component {
         } else throw Error("Cannot fetch data from server");
       })
       .then(data => {
-        const timezoneAPI = `http://api.timezonedb.com/v2.1/get-time-zone?key=${
+        const timezoneAPI = `//api.timezonedb.com/v2.1/get-time-zone?key=${
           process.env.REACT_APP_timezoneAPIKey
         }&format=json&by=position&lat=${data.coord.lat}&lng=${data.coord.lon}`;
         fetch(timezoneAPI)

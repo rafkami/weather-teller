@@ -10,7 +10,7 @@ const getGoogleMaps = () => {
         delete window.resolveGoogleMapsPromise;
       };
       const script = document.createElement("script");
-      script.src = `https://maps.googleapis.com/maps/api/js?key=${
+      script.src = `//maps.googleapis.com/maps/api/js?key=${
         process.env.REACT_APP_googleAPIKey
       }&callback=resolveGoogleMapsPromise`;
       script.async = true;
