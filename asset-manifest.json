@@ -1,14 +1,14 @@
 {
-  "main.css": "/weather-teller/static/css/main.b357488d.chunk.css",
-  "main.js": "/weather-teller/static/js/main.fd9752f5.chunk.js",
-  "main.js.map": "/weather-teller/static/js/main.fd9752f5.chunk.js.map",
-  "runtime~main.js": "/weather-teller/static/js/runtime~main.ccb5f2e4.js",
-  "runtime~main.js.map": "/weather-teller/static/js/runtime~main.ccb5f2e4.js.map",
-  "static/js/2.072f9aee.chunk.js": "/weather-teller/static/js/2.072f9aee.chunk.js",
-  "static/js/2.072f9aee.chunk.js.map": "/weather-teller/static/js/2.072f9aee.chunk.js.map",
-  "index.html": "/weather-teller/index.html",
-  "precache-manifest.82a00c2e9d79119887164ed47f1979b9.js": "/weather-teller/precache-manifest.82a00c2e9d79119887164ed47f1979b9.js",
-  "service-worker.js": "/weather-teller/service-worker.js",
-  "static/css/main.b357488d.chunk.css.map": "/weather-teller/static/css/main.b357488d.chunk.css.map",
-  "static/media/App.css": "/weather-teller/static/media/rainbow-1909_1920.37e36d3f.jpg"
+  "main.css": "/static/css/main.e048cf99.chunk.css",
+  "main.js": "/static/js/main.6949fef2.chunk.js",
+  "main.js.map": "/static/js/main.6949fef2.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.072f9aee.chunk.js": "/static/js/2.072f9aee.chunk.js",
+  "static/js/2.072f9aee.chunk.js.map": "/static/js/2.072f9aee.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.772763664a7a27ecf34f6c08f4e673fe.js": "/precache-manifest.772763664a7a27ecf34f6c08f4e673fe.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.e048cf99.chunk.css.map": "/static/css/main.e048cf99.chunk.css.map",
+  "static/media/App.css": "/static/media/rainbow-1909_1920.37e36d3f.jpg"
 }
