@@ -28,14 +28,20 @@ const initialState = {
 
 // preparation for getting suggestions in Form component, using downloaded DB of cities
 
-const cityList = require("../data/citylist.json");
-
 const getSuggestions = value => {
   const escapeRegexCharacters = str =>
     str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   const inputValue = escapeRegexCharacters(value.trim().toLowerCase());
-
-  return cityList
+  const cities = [];
+  fetch("/.netlify/functions/cityRead")
+    .then(response => {
+      if (response.status === 200) {
+        return response.json();
+      } else throw Error("Cannot fetch data from database");
+    })
+    .then(result => cities.push(result.data))
+    .catch(err => console.log(err));
+  return cities
     .filter(city => city.name.toLowerCase().startsWith(inputValue))
     .slice(0, 50);
 };
@@ -119,7 +125,14 @@ class App extends Component {
     e.preventDefault();
     const whereIDStarts = this.state.value.indexOf(":");
     const inputID = this.state.value.slice(whereIDStarts + 2);
-    const ifIDmatches = cityList.find(city => city.id.toString() === inputID);
+    const ifIDmatches = fetch("/.netlify/functions/cityRead")
+      .then(response => {
+        if (response.status === 200) {
+          return response.json();
+        } else throw Error("Cannot fetch data from database");
+      })
+      .then(result => result.find(city => city.id.toString() === inputID))
+      .catch(err => console.log(err));
     const cityIDcheck = () =>
       ifIDmatches ? `id=${ifIDmatches.id}` : `q=${this.state.value}`;
     const weatherAPI = `//api.openweathermap.org/data/2.5/weather?${cityIDcheck()}&APPID=${

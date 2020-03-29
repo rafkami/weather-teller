@@ -1,0 +1,1113 @@
+  { "id": 6294629, "name": "Hinter-Rüti", "country": "CH"}
+  { "id": 2659779, "name": "Maloja", "country": "CH"}
+  { "id": 7285723, "name": "Embd", "country": "CH"}
+  { "id": 2660914, "name": "Embd", "country": "CH"}
+  { "id": 2660871, "name": "Erlenbach im Simmental", "country": "CH"}
+  { "id": 7287282, "name": "Täsch", "country": "CH"}
+  { "id": 2658418, "name": "Täsch", "country": "CH"}
+  { "id": 7287354, "name": "Turtmann", "country": "CH"}
+  { "id": 2658287, "name": "Turtmann", "country": "CH"}
+  { "id": 7287239, "name": "Stettlen", "country": "CH"}
+  { "id": 2661037, "name": "Deisswil", "country": "CH"}
+  { "id": 2661828, "name": "Albeuve", "country": "CH"}
+  { "id": 7287109, "name": "Schönengrund", "country": "CH"}
+  { "id": 2658707, "name": "Schönengrund", "country": "CH"}
+  { "id": 7285663, "name": "Dompierre (FR)", "country": "CH"}
+  { "id": 2660996, "name": "Dompierre", "country": "CH"}
+  { "id": 7286553, "name": "Morens (FR)", "country": "CH"}
+  { "id": 2659590, "name": "Morens", "country": "CH"}
+  { "id": 7285521, "name": "Clos du Doubs", "country": "CH"}
+  { "id": 2658858, "name": "Saint-Ursanne", "country": "CH"}
+  { "id": 7302244, "name": "Kleinwangeen", "country": "CH"}
+  { "id": 7286064, "name": "Herdern", "country": "CH"}
+  { "id": 2660372, "name": "Herdern", "country": "CH"}
+  { "id": 7287366, "name": "Ufhusen", "country": "CH"}
+  { "id": 2658272, "name": "Ufhusen", "country": "CH"}
+  { "id": 7286150, "name": "Isérables", "country": "CH"}
+  { "id": 2660242, "name": "Iserables", "country": "CH"}
+  { "id": 6294820, "name": "Rümikon", "country": "CH"}
+  { "id": 6295099, "name": "Oberwinterthur (Kreis 2) / Essigfabrik", "country": "CH"}
+  { "id": 7287387, "name": "Unterstammheim", "country": "CH"}
+  { "id": 6290988, "name": "Ulmerhof", "country": "CH"}
+  { "id": 2660541, "name": "Grafenort", "country": "CH"}
+  { "id": 7286629, "name": "Neunforn", "country": "CH"}
+  { "id": 7669799, "name": "Niederneunforn", "country": "CH"}
+  { "id": 7286735, "name": "Ohmstal", "country": "CH"}
+  { "id": 2659302, "name": "Ohmstal", "country": "CH"}
+  { "id": 7287311, "name": "Tiefencastel", "country": "CH"}
+  { "id": 2658365, "name": "Tiefencastel", "country": "CH"}
+  { "id": 2658320, "name": "Tretsch", "country": "CH"}
+  { "id": 7285040, "name": "Agiez", "country": "CH"}
+  { "id": 2661838, "name": "Agiez", "country": "CH"}
+  { "id": 7287637, "name": "Zillis-Reischen", "country": "CH"}
+  { "id": 2657920, "name": "Zillis", "country": "CH"}
+  { "id": 7286401, "name": "Luthern", "country": "CH"}
+  { "id": 2659821, "name": "Luthern", "country": "CH"}
+  { "id": 7286647, "name": "Niederösch", "country": "CH"}
+  { "id": 2661820, "name": "Alchenstorf", "country": "CH"}
+  { "id": 7285608, "name": "Cunter", "country": "CH"}
+  { "id": 2661131, "name": "Cunter", "country": "CH"}
+  { "id": 7285265, "name": "Bivio", "country": "CH"}
+  { "id": 2661484, "name": "Bivio", "country": "CH"}
+  { "id": 7285220, "name": "Betschwanden", "country": "CH"}
+  { "id": 2661537, "name": "Betschwanden", "country": "CH"}
+  { "id": 2659026, "name": "Rigi Kaltbad", "country": "CH"}
+  { "id": 7287206, "name": "Splügen", "country": "CH"}
+  { "id": 2658528, "name": "Splügen", "country": "CH"}
+  { "id": 2661204, "name": "Châteauneuf", "country": "CH"}
+  { "id": 7287464, "name": "Villars-Mendraz", "country": "CH"}
+  { "id": 2660128, "name": "Klosters Serneus", "country": "CH"}
+  { "id": 7285788, "name": "Fahrni", "country": "CH"}
+  { "id": 2660833, "name": "Fahrni", "country": "CH"}
+  { "id": 7287172, "name": "Sils im Domleschg", "country": "CH"}
+  { "id": 2658590, "name": "Sils im Domleschg", "country": "CH"}
+  { "id": 7285092, "name": "Ardez", "country": "CH"}
+  { "id": 2661726, "name": "Ardez", "country": "CH"}
+  { "id": 7287417, "name": "Varen", "country": "CH"}
+  { "id": 2658185, "name": "Varen", "country": "CH"}
+  { "id": 7285445, "name": "Cauco", "country": "CH"}
+  { "id": 7670080, "name": "Bodio", "country": "CH"}
+  { "id": 2660868, "name": "Ernen", "country": "CH"}
+  { "id": 7285582, "name": "Courtedoux", "country": "CH"}
+  { "id": 2661093, "name": "Courtedoux", "country": "CH"}
+  { "id": 7286614, "name": "Neckertal", "country": "CH"}
+  { "id": 2659505, "name": "Necker", "country": "CH"}
+  { "id": 2661047, "name": "Danis", "country": "CH"}
+  { "id": 2659635, "name": "Mols", "country": "CH"}
+  { "id": 7287375, "name": "Unterems", "country": "CH"}
+  { "id": 2659395, "name": "Oberems", "country": "CH"}
+  { "id": 7287203, "name": "Speicher", "country": "CH"}
+  { "id": 2658537, "name": "Speicher", "country": "CH"}
+  { "id": 7286417, "name": "Maggia", "country": "CH"}
+  { "id": 2659647, "name": "Moghegno", "country": "CH"}
+  { "id": 7287336, "name": "Trin", "country": "CH"}
+  { "id": 7669966, "name": "Trin Mulin", "country": "CH"}
+  { "id": 7285892, "name": "Gänsbrunnen", "country": "CH"}
+  { "id": 2660666, "name": "Gänsbrunnen", "country": "CH"}
+  { "id": 2660941, "name": "Egga", "country": "CH"}
+  { "id": 2660706, "name": "Melchsee-Frutt", "country": "CH"}
+  { "id": 7285522, "name": "Coeuve", "country": "CH"}
+  { "id": 2661152, "name": "Coeuve", "country": "CH"}
+  { "id": 7287016, "name": "Saicourt", "country": "CH"}
+  { "id": 2661570, "name": "Bellelay", "country": "CH"}
+  { "id": 7285791, "name": "Faido", "country": "CH"}
+  { "id": 2661174, "name": "Chiggiogna", "country": "CH"}
+  { "id": 2659312, "name": "Ocourt", "country": "CH"}
+  { "id": 2661060, "name": "Curtina", "country": "CH"}
+  { "id": 7287488, "name": "Visperterminen", "country": "CH"}
+  { "id": 2658110, "name": "Visperterminen", "country": "CH"}
+  { "id": 2659980, "name": "Le Bry", "country": "CH"}
+  { "id": 7287205, "name": "Spiringen", "country": "CH"}
+  { "id": 2660368, "name": "Hergersboden", "country": "CH"}
+  { "id": 2660766, "name": "Fischingen", "country": "CH"}
+  { "id": 7287335, "name": "Trimstein", "country": "CH"}
+  { "id": 2658310, "name": "Trimstein", "country": "CH"}
+  { "id": 7287415, "name": "Valzeina", "country": "CH"}
+  { "id": 2658189, "name": "Valzeina", "country": "CH"}
+  { "id": 7285311, "name": "Bourg-Saint-Pierre", "country": "CH"}
+  { "id": 2661428, "name": "Bourg-Saint-Pierre", "country": "CH"}
+  { "id": 7286715, "name": "Oberstocken", "country": "CH"}
+  { "id": 2659338, "name": "Oberstocken", "country": "CH"}
+  { "id": 7285678, "name": "Duillier", "country": "CH"}
+  { "id": 2661217, "name": "Changins", "country": "CH"}
+  { "id": 2659940, "name": "Les Bayards", "country": "CH"}
+  { "id": 7286153, "name": "Isorno", "country": "CH"}
+  { "id": 2661675, "name": "Auressio", "country": "CH"}
+  { "id": 7285807, "name": "Ferenbalm", "country": "CH"}
+  { "id": 2660798, "name": "Ferenbalm", "country": "CH"}
+  { "id": 7287379, "name": "Unteriberg", "country": "CH"}
+  { "id": 2659313, "name": "Ochsenboden", "country": "CH"}
+  { "id": 2659362, "name": "Ober Rämis", "country": "CH"}
+  { "id": 7287068, "name": "Saxeten", "country": "CH"}
+  { "id": 2658770, "name": "Saxeten", "country": "CH"}
+  { "id": 2660817, "name": "Farvagny-le-Petit", "country": "CH"}
+  { "id": 2659768, "name": "Mannried", "country": "CH"}
+  { "id": 7286158, "name": "Jaun", "country": "CH"}
+  { "id": 2660268, "name": "Im Fang", "country": "CH"}
+  { "id": 2659178, "name": "Pont-de-Nant", "country": "CH"}
+  { "id": 7287171, "name": "Silenen", "country": "CH"}
+  { "id": 2658934, "name": "Ruèras", "country": "CH"}
+  { "id": 7286967, "name": "Rovray", "country": "CH"}
+  { "id": 2658942, "name": "Rovray", "country": "CH"}
+  { "id": 7287440, "name": "Versam", "country": "CH"}
+  { "id": 2658153, "name": "Versam", "country": "CH"}
+  { "id": 7669429, "name": "Agriswil", "country": "CH"}
+  { "id": 2661195, "name": "Chavannes-sous-Orsonnens", "country": "CH"}
+  { "id": 2658978, "name": "Rondchâtel", "country": "CH"}
+  { "id": 2658834, "name": "Sangernboden", "country": "CH"}
+  { "id": 2660845, "name": "Etzwilen", "country": "CH"}
+  { "id": 7287384, "name": "Unterschächen", "country": "CH"}
+  { "id": 2658243, "name": "Unterschächen", "country": "CH"}
+  { "id": 7286116, "name": "Hospental", "country": "CH"}
+  { "id": 2660297, "name": "Hospental", "country": "CH"}
+  { "id": 2661310, "name": "Burstera", "country": "CH"}
+  { "id": 2658251, "name": "Unter-Gomerkinden", "country": "CH"}
+  { "id": 7287196, "name": "Sornetan", "country": "CH"}
+  { "id": 2658546, "name": "Sornetan", "country": "CH"}
+  { "id": 7669445, "name": "Au", "country": "CH"}
+  { "id": 7285443, "name": "Casti-Wergenstein", "country": "CH"}
+  { "id": 7670441, "name": "Vargistagn", "country": "CH"}
+  { "id": 2660709, "name": "Fruence", "country": "CH"}
+  { "id": 2659910, "name": "Letten", "country": "CH"}
+  { "id": 7287062, "name": "Saulcy", "country": "CH"}
+  { "id": 2658779, "name": "Saulcy", "country": "CH"}
+  { "id": 7286591, "name": "Münster-Geschinen", "country": "CH"}
+  { "id": 2660627, "name": "Geschinen", "country": "CH"}
+  { "id": 7287344, "name": "Tschappina", "country": "CH"}
+  { "id": 2659334, "name": "Tschappina", "country": "CH"}
+  { "id": 6691871, "name": "Obertschappina", "country": "CH"}
+  { "id": 2658921, "name": "Rüschegg-Graben", "country": "CH"}
+  { "id": 2658751, "name": "Schärlig", "country": "CH"}
+  { "id": 2660889, "name": "Ensex", "country": "CH"}
+  { "id": 7285854, "name": "Forel (Lavaux)", "country": "CH"}
+  { "id": 7669512, "name": "Cornes de Cerf", "country": "CH"}
+  { "id": 2660100, "name": "Kröschenbrunnen", "country": "CH"}
+  { "id": 6619276, "name": "L'Orient", "country": "CH"}
+  { "id": 2657965, "name": "Witzwil", "country": "CH"}
+  { "id": 2659069, "name": "Reusch", "country": "CH"}
+  { "id": 2659788, "name": "Magnot", "country": "CH"}
+  { "id": 2661423, "name": "Brail", "country": "CH"}
+  { "id": 7285421, "name": "Calfreisen", "country": "CH"}
+  { "id": 2661252, "name": "Castiel", "country": "CH"}
+  { "id": 2661165, "name": "Ciernes-Picat", "country": "CH"}
+  { "id": 2660393, "name": "Heidbühl", "country": "CH"}
+  { "id": 7286246, "name": "Ladir", "country": "CH"}
+  { "id": 2660064, "name": "Ladir", "country": "CH"}
+  { "id": 2660687, "name": "Gadmen", "country": "CH"}
+  { "id": 6695941, "name": "Thayngen,dorf", "country": "CH"}
+  { "id": 7286830, "name": "Präz", "country": "CH"}
+  { "id": 7670133, "name": "Dalin", "country": "CH"}
+  { "id": 2658746, "name": "Scheid", "country": "CH"}
+  { "id": 7285761, "name": "Erschmatt", "country": "CH"}
+  { "id": 2660866, "name": "Erschmatt", "country": "CH"}
+  { "id": 2660922, "name": "Eison", "country": "CH"}
+  { "id": 2660548, "name": "Gottefrey", "country": "CH"}
+  { "id": 2660278, "name": "Iffigen", "country": "CH"}
+  { "id": 7287220, "name": "St. Antönien", "country": "CH"}
+  { "id": 2659650, "name": "Mittlersass", "country": "CH"}
+  { "id": 7286557, "name": "Morissen", "country": "CH"}
+  { "id": 2659582, "name": "Morissen", "country": "CH"}
+  { "id": 7287346, "name": "Tschiertschen-Praden", "country": "CH"}
+  { "id": 2658296, "name": "Tschiertschen", "country": "CH"}
+  { "id": 7287576, "name": "Wildberg", "country": "CH"}
+  { "id": 2658340, "name": "Tössegg", "country": "CH"}
+  { "id": 2661722, "name": "Argseeli", "country": "CH"}
+  { "id": 2659972, "name": "L'Etivaz", "country": "CH"}
+  { "id": 7285944, "name": "Göschenen", "country": "CH"}
+  { "id": 2660553, "name": "Göschenen", "country": "CH"}
+  { "id": 2661764, "name": "Alvaneu", "country": "CH"}
+  { "id": 7669801, "name": "Niederwangen", "country": "CH"}
+  { "id": 2659962, "name": "Lelgio", "country": "CH"}
+  { "id": 2661420, "name": "Bratsch", "country": "CH"}
+  { "id": 7286356, "name": "Linden", "country": "CH"}
+  { "id": 2659883, "name": "Linden", "country": "CH"}
+  { "id": 7286638, "name": "Niedergesteln", "country": "CH"}
+  { "id": 2659465, "name": "Niedergesteln", "country": "CH"}
+  { "id": 7287546, "name": "Wassen", "country": "CH"}
+  { "id": 2658047, "name": "Wassen", "country": "CH"}
+  { "id": 7669564, "name": "Eschi", "country": "CH"}
+  { "id": 2658673, "name": "Schwefelbergbad", "country": "CH"}
+  { "id": 2661054, "name": "Dailly", "country": "CH"}
+  { "id": 2658268, "name": "Ulrichen", "country": "CH"}
+  { "id": 2660641, "name": "Genthalhütten", "country": "CH"}
+  { "id": 2661536, "name": "Bettelried", "country": "CH"}
+  { "id": 7286149, "name": "Isenthal", "country": "CH"}
+  { "id": 2660244, "name": "Isenthal", "country": "CH"}
+  { "id": 7286274, "name": "Lauenen", "country": "CH"}
+  { "id": 2660005, "name": "Lauenen", "country": "CH"}
+  { "id": 7287126, "name": "Schwende", "country": "CH"}
+  { "id": 2658046, "name": "Wasserauen", "country": "CH"}
+  { "id": 7287405, "name": "Valcolla", "country": "CH"}
+  { "id": 2661164, "name": "Cimadera", "country": "CH"}
+  { "id": 2658638, "name": "Selfranga", "country": "CH"}
+  { "id": 2661643, "name": "Bad-Schwarzsee", "country": "CH"}
+  { "id": 2660961, "name": "Dürrenboden", "country": "CH"}
+  { "id": 2660358, "name": "Hertenstein", "country": "CH"}
+  { "id": 2658743, "name": "Scherliau", "country": "CH"}
+  { "id": 7287512, "name": "Wachseldorn", "country": "CH"}
+  { "id": 2658083, "name": "Wachseldorn", "country": "CH"}
+  { "id": 2659392, "name": "Oberengstringen", "country": "CH"}
+  { "id": 2658017, "name": "Werdhölzli", "country": "CH"}
+  { "id": 2661565, "name": "Bellwald", "country": "CH"}
+  { "id": 7286251, "name": "Lalden", "country": "CH"}
+  { "id": 2660051, "name": "Lalden", "country": "CH"}
+  { "id": 2660829, "name": "Faldum Alp", "country": "CH"}
+  { "id": 1011880, "name": "Da Nova", "country": "ZA"}
+  { "id": 962367, "name": "Richards Bay", "country": "ZA"}
+  { "id": 949276, "name": "The Village", "country": "ZA"}
+  { "id": 3359510, "name": "Wellington", "country": "ZA"}
+  { "id": 962597, "name": "Reunion", "country": "ZA"}
+  { "id": 994321, "name": "Jacobs", "country": "ZA"}
+  { "id": 995409, "name": "Horton", "country": "ZA"}
+  { "id": 3361934, "name": "Saldanha", "country": "ZA"}
+  { "id": 3369179, "name": "Caledon", "country": "ZA"}
+  { "id": 943937, "name": "Villiers", "country": "ZA"}
+  { "id": 7290494, "name": "Greenhills", "country": "ZA"}
+  { "id": 1012413, "name": "Cullinan", "country": "ZA"}
+  { "id": 955407, "name": "Sishen", "country": "ZA"}
+  { "id": 1002145, "name": "George", "country": "ZA"}
+  { "id": 953781, "name": "Soweto", "country": "ZA"}
+  { "id": 979692, "name": "Malvern", "country": "ZA"}
+  { "id": 939435, "name": "Winston Park", "country": "ZA"}
+  { "id": 996506, "name": "Hillcrest", "country": "ZA"}
+  { "id": 1015504, "name": "Bronkhorstspruit", "country": "ZA"}
+  { "id": 1015969, "name": "Brandfort", "country": "ZA"}
+  { "id": 940316, "name": "Westonaria", "country": "ZA"}
+  { "id": 943952, "name": "Village of Happiness", "country": "ZA"}
+  { "id": 942470, "name": "Vryheid", "country": "ZA"}
+  { "id": 988356, "name": "Kokstad", "country": "ZA"}
+  { "id": 952734, "name": "Stanger", "country": "ZA"}
+  { "id": 970566, "name": "Nigel", "country": "ZA"}
+  { "id": 964315, "name": "Mokopane", "country": "ZA"}
+  { "id": 1011031, "name": "Delmas", "country": "ZA"}
+  { "id": 938694, "name": "White River", "country": "ZA"}
+  { "id": 964712, "name": "Plettenberg Bay", "country": "ZA"}
+  { "id": 994493, "name": "Isipingo", "country": "ZA"}
+  { "id": 956754, "name": "Sedgefield", "country": "ZA"}
+  { "id": 952745, "name": "Standplaas", "country": "ZA"}
+  { "id": 1019330, "name": "Bhisho", "country": "ZA"}
+  { "id": 3359041, "name": "Worcester", "country": "ZA"}
+  { "id": 1019704, "name": "Bethlehem", "country": "ZA"}
+  { "id": 956907, "name": "Schweizer-Reneke", "country": "ZA"}
+  { "id": 3366880, "name": "Hermanus", "country": "ZA"}
+  { "id": 949683, "name": "Thabazimbi", "country": "ZA"}
+  { "id": 981827, "name": "Louis Trichardt", "country": "ZA"}
+  { "id": 956767, "name": "Secunda", "country": "ZA"}
+  { "id": 965241, "name": "Piet Retief", "country": "ZA"}
+  { "id": 3358975, "name": "Yzerfontein", "country": "ZA"}
+  { "id": 964432, "name": "Port Alfred", "country": "ZA"}
+  { "id": 1021040, "name": "Barkly West", "country": "ZA"}
+  { "id": 943960, "name": "Viljoenskroon", "country": "ZA"}
+  { "id": 990930, "name": "Kimberley", "country": "ZA"}
+  { "id": 1021086, "name": "Barberton", "country": "ZA"}
+  { "id": 963049, "name": "Rayton", "country": "ZA"}
+  { "id": 986846, "name": "Kroonstad", "country": "ZA"}
+  { "id": 941966, "name": "Warmbaths", "country": "ZA"}
+  { "id": 990802, "name": "Kirkwood", "country": "ZA"}
+  { "id": 950709, "name": "Swellendam", "country": "ZA"}
+  { "id": 991247, "name": "Kew", "country": "ZA"}
+  { "id": 1015420, "name": "Brown Stones", "country": "ZA"}
+  { "id": 3360934, "name": "Strand", "country": "ZA"}
+  { "id": 962649, "name": "Reservoir Hills", "country": "ZA"}
+  { "id": 954161, "name": "Somerset East", "country": "ZA"}
+  { "id": 3364795, "name": "Langebaan", "country": "ZA"}
+  { "id": 967476, "name": "Orkney", "country": "ZA"}
+  { "id": 943882, "name": "Virginia", "country": "ZA"}
+  { "id": 969619, "name": "Nottingham Road", "country": "ZA"}
+  { "id": 965528, "name": "Phalaborwa", "country": "ZA"}
+  { "id": 3362864, "name": "Pinelands", "country": "ZA"}
+  { "id": 1007400, "name": "Dundee", "country": "ZA"}
+  { "id": 993911, "name": "Jeffreys Bay", "country": "ZA"}
+  { "id": 984087, "name": "Lebowakgomo", "country": "ZA"}
+  { "id": 968665, "name": "Modimolle", "country": "ZA"}
+  { "id": 1023672, "name": "Addo", "country": "ZA"}
+  { "id": 1013397, "name": "Clarens", "country": "ZA"}
+  { "id": 940377, "name": "West End", "country": "ZA"}
+  { "id": 945094, "name": "Valhalla", "country": "ZA"}
+  { "id": 7778818, "name": "Auckland Park", "country": "ZA"}
+  { "id": 1013081, "name": "Colenso", "country": "ZA"}
+  { "id": 1014073, "name": "Carletonville", "country": "ZA"}
+  { "id": 1011951, "name": "Danabaai", "country": "ZA"}
+  { "id": 1022108, "name": "Aston Bay", "country": "ZA"}
+  { "id": 996256, "name": "Hluhluwe", "country": "ZA"}
+  { "id": 1013886, "name": "Cato Ridge", "country": "ZA"}
+  { "id": 958435, "name": "Sabierivier", "country": "ZA"}
+  { "id": 3364791, "name": "Langebaanweg", "country": "ZA"}
+  { "id": 942511, "name": "Vryburg", "country": "ZA"}
+  { "id": 8063768, "name": "Melrose Estate", "country": "ZA"}
+  { "id": 3364246, "name": "McGregor", "country": "ZA"}
+  { "id": 956098, "name": "Shelly Beach", "country": "ZA"}
+  { "id": 949049, "name": "Three Rivers", "country": "ZA"}
+  { "id": 1003953, "name": "Fort Beaufort", "country": "ZA"}
+  { "id": 945995, "name": "Underberg", "country": "ZA"}
+  { "id": 944120, "name": "Verulam", "country": "ZA"}
+  { "id": 1005040, "name": "Eshowe", "country": "ZA"}
+  { "id": 3368039, "name": "Elsiesrivier", "country": "ZA"}
+  { "id": 3368014, "name": "Epping Forest", "country": "ZA"}
+  { "id": 1021396, "name": "Balfour", "country": "ZA"}
+  { "id": 952747, "name": "Standerton", "country": "ZA"}
+  { "id": 1005976, "name": "Elarduspark", "country": "ZA"}
+  { "id": 3367877, "name": "Franschhoek", "country": "ZA"}
+  { "id": 1014257, "name": "Calitzdorp", "country": "ZA"}
+  { "id": 972206, "name": "Naboomspruit", "country": "ZA"}
+  { "id": 940359, "name": "Western Township", "country": "ZA"}
+  { "id": 987648, "name": "Koster", "country": "ZA"}
+  { "id": 990825, "name": "Kinross", "country": "ZA"}
+  { "id": 1000065, "name": "Greenwood Park", "country": "ZA"}
+  { "id": 963961, "name": "Prospect", "country": "ZA"}
+  { "id": 945142, "name": "Vaalwater", "country": "ZA"}
+  { "id": 1001736, "name": "Glencoe", "country": "ZA"}
+  { "id": 3361084, "name": "Stanford", "country": "ZA"}
+  { "id": 941812, "name": "Waterfall", "country": "ZA"}
+  { "id": 3362671, "name": "Pringle Bay", "country": "ZA"}
+  { "id": 963528, "name": "Queensburgh", "country": "ZA"}
+  { "id": 1020310, "name": "Bellair", "country": "ZA"}
+  { "id": 990849, "name": "King William’s Town", "country": "ZA"}
+  { "id": 958441, "name": "Sabie", "country": "ZA"}
+  { "id": 990902, "name": "Kingsborough", "country": "ZA"}
+  { "id": 3359094, "name": "Wolseley", "country": "ZA"}
+  { "id": 1023309, "name": "Aliwal North", "country": "ZA"}
+  { "id": 955313, "name": "Siyabuswa", "country": "ZA"}
+  { "id": 3369183, "name": "Cafda Village", "country": "ZA"}
+  { "id": 3363441, "name": "Ocean View", "country": "ZA"}
+  { "id": 3367458, "name": "Grassy Park", "country": "ZA"}
+  { "id": 964424, "name": "Port Edward", "country": "ZA"}
+  { "id": 982587, "name": "Little Falls", "country": "ZA"}
+  { "id": 1011858, "name": "Danville", "country": "ZA"}
+  { "id": 964132, "name": "Pretoria-Wes", "country": "ZA"}
+  { "id": 1013888, "name": "Cato Manor", "country": "ZA"}
+  { "id": 940504, "name": "Wemmer", "country": "ZA"}
+  { "id": 966189, "name": "Parkview", "country": "ZA"}
+  { "id": 1007968, "name": "Drieweeksleegte", "country": "ZA"}
+  { "id": 945970, "name": "Uniondale", "country": "ZA"}
+  { "id": 972674, "name": "Muldersdrift", "country": "ZA"}
+  { "id": 1015714, "name": "Brentwood Park", "country": "ZA"}
+  { "id": 1013911, "name": "Cathcart", "country": "ZA"}
+  { "id": 937136, "name": "Zeerust", "country": "ZA"}
+  { "id": 3363171, "name": "Oude Raapkraal", "country": "ZA"}
+  { "id": 1012080, "name": "Dalton", "country": "ZA"}
+  { "id": 3369174, "name": "Calvinia", "country": "ZA"}
+  { "id": 941976, "name": "Warden", "country": "ZA"}
+  { "id": 940394, "name": "Westbrook", "country": "ZA"}
+  { "id": 979330, "name": "Manor Gardens", "country": "ZA"}
+  { "id": 8063413, "name": "Arcadia", "country": "ZA"}
+  { "id": 1017354, "name": "Bosbokrand", "country": "ZA"}
+  { "id": 3369083, "name": "Clovelly", "country": "ZA"}
+  { "id": 3369090, "name": "Clifton", "country": "ZA"}
+  { "id": 3361711, "name": "Sea Point", "country": "ZA"}
+  { "id": 942683, "name": "Vredefort", "country": "ZA"}
+  { "id": 966737, "name": "Paardekraal", "country": "ZA"}
+  { "id": 977363, "name": "Meadowlands", "country": "ZA"}
+  { "id": 7870410, "name": "Albertskroon", "country": "ZA"}
+  { "id": 971377, "name": "New Hanover", "country": "ZA"}
+  { "id": 3368962, "name": "Darling", "country": "ZA"}
+  { "id": 986822, "name": "Krugersdorp", "country": "ZA"}
+  { "id": 1105777, "name": "Centurion", "country": "ZA"}
+  { "id": 7871282, "name": "Cape Gate", "country": "ZA"}
+  { "id": 961226, "name": "Ritchie", "country": "ZA"}
+  { "id": 968453, "name": "Ofcolaco", "country": "ZA"}
+  { "id": 956375, "name": "Seshego", "country": "ZA"}
+  { "id": 3362324, "name": "Roggebaai", "country": "ZA"}
+  { "id": 964137, "name": "Pretoria", "country": "ZA"}
+  { "id": 979691, "name": "Malvern", "country": "ZA"}
+  { "id": 956839, "name": "Sea Park", "country": "ZA"}
+  { "id": 967542, "name": "Orania", "country": "ZA"}
+  { "id": 982701, "name": "Lindley", "country": "ZA"}
+  { "id": 1023365, "name": "Alexandria", "country": "ZA"}
+  { "id": 3363913, "name": "Mouille Point", "country": "ZA"}
+  { "id": 974933, "name": "Mogwase", "country": "ZA"}
+  { "id": 1012358, "name": "Curry’s Post", "country": "ZA"}
+  { "id": 1003844, "name": "Fouriesburg", "country": "ZA"}
+  { "id": 982771, "name": "Lime Acres", "country": "ZA"}
+  { "id": 994257, "name": "Jagersfontein", "country": "ZA"}
+  { "id": 3368192, "name": "Edgemead", "country": "ZA"}
+  { "id": 3363983, "name": "Montague Gardens", "country": "ZA"}
+  { "id": 954486, "name": "Smithfield", "country": "ZA"}
+  { "id": 1019031, "name": "Blanco", "country": "ZA"}
+  { "id": 1005781, "name": "Elliot", "country": "ZA"}
+  { "id": 1023698, "name": "Adams College", "country": "ZA"}
+  { "id": 951271, "name": "Sutherland", "country": "ZA"}
+  { "id": 1011632, "name": "De Aar", "country": "ZA"}
+  { "id": 983065, "name": "Leslie", "country": "ZA"}
+  { "id": 3363453, "name": "Oakdale", "country": "ZA"}
+  { "id": 1013675, "name": "Chatsworth", "country": "ZA"}
+  { "id": 982103, "name": "Lorraine", "country": "ZA"}
+  { "id": 951350, "name": "Sunridge Park", "country": "ZA"}
+  { "id": 3366939, "name": "Heathfield", "country": "ZA"}
+  { "id": 1023517, "name": "Agulhas", "country": "ZA"}
+  { "id": 976358, "name": "Middelburg", "country": "ZA"}
+  { "id": 1015657, "name": "Brighton Beach", "country": "ZA"}
+  { "id": 1005544, "name": "Empangeni", "country": "ZA"}
+  { "id": 966305, "name": "Panorama", "country": "ZA"}
+  { "id": 1012724, "name": "Cornelia", "country": "ZA"}
+  { "id": 971352, "name": "New Kingsmead", "country": "ZA"}
+  { "id": 1007420, "name": "Duncan Village", "country": "ZA"}
+  { "id": 1000116, "name": "Greenfields", "country": "ZA"}
+  { "id": 3362001, "name": "Rugby", "country": "ZA"}
+  { "id": 984896, "name": "La Mercy", "country": "ZA"}
+  { "id": 1022391, "name": "Arbor Park", "country": "ZA"}
+  { "id": 1105774, "name": "Eersterus", "country": "ZA"}
+  { "id": 1006978, "name": "East Lynne", "country": "ZA"}
+  { "id": 963944, "name": "Protea Ridge", "country": "ZA"}
+  { "id": 3370331, "name": "Aurora", "country": "ZA"}
+  { "id": 982332, "name": "Lombardy East", "country": "ZA"}
+  { "id": 981139, "name": "Lyndhurst", "country": "ZA"}
+  { "id": 972138, "name": "Nancefield", "country": "ZA"}
+  { "id": 1005928, "name": "Eldoradopark", "country": "ZA"}
+  { "id": 1023454, "name": "Albert Falls", "country": "ZA"}
+  { "id": 1001632, "name": "Glenhurd", "country": "ZA"}
+  { "id": 1013337, "name": "Clermont", "country": "ZA"}
+  { "id": 1010728, "name": "De Rust", "country": "ZA"}
+  { "id": 937246, "name": "Zastron", "country": "ZA"}
+  { "id": 973971, "name": "Morgan’s Bay", "country": "ZA"}
+  { "id": 357542, "name": "‘Ezbet el-Auqât", "country": "EG"}
+  { "id": 359781, "name": "Muḩāfaz̧at Asyūţ", "country": "EG"}
+  { "id": 359783, "name": "Asyut", "country": "EG"}
+  { "id": 347794, "name": "Muḩāfaz̧at Sūhāj", "country": "EG"}
+  { "id": 347796, "name": "Suhaj", "country": "EG"}
+  { "id": 358044, "name": "Muḩāfaz̧at Dumyāţ", "country": "EG"}
+  { "id": 358048, "name": "Damietta", "country": "EG"}
+  { "id": 359787, "name": "Muḩāfaz̧at Aswān", "country": "EG"}
+  { "id": 359792, "name": "Aswan", "country": "EG"}
+  { "id": 358617, "name": "Muḩāfaz̧at Būr Sa‘īd", "country": "EG"}
+  { "id": 412814, "name": "Syria", "country": "EG"}
+  { "id": 351483, "name": "Naj‘ al Khuţbah", "country": "EG"}
+  { "id": 361849, "name": "Muḩāfaz̧at ad Daqahlīyah", "country": "EG"}
+  { "id": 347591, "name": "Talkha", "country": "EG"}
+  { "id": 349852, "name": "Sāḩil Ţahţā", "country": "EG"}
+  { "id": 359212, "name": "Bani Mazar", "country": "EG"}
+  { "id": 359171, "name": "Muḩāfaz̧at Banī Suwayf", "country": "EG"}
+  { "id": 361024, "name": "Al Janādilah", "country": "EG"}
+  { "id": 360829, "name": "Al Mahallah al Kubra", "country": "EG"}
+  { "id": 360689, "name": "Muḩāfaz̧at al Minūfīyah", "country": "EG"}
+  { "id": 347612, "name": "Tala", "country": "EG"}
+  { "id": 353223, "name": "Madīnat as Sādāt", "country": "EG"}
+  { "id": 362004, "name": "Abu Tij", "country": "EG"}
+  { "id": 7916170, "name": "Masākin al Akhshāb wa ash Shāy", "country": "EG"}
+  { "id": 354076, "name": "Kafr Shukr", "country": "EG"}
+  { "id": 358620, "name": "Bur Safajah", "country": "EG"}
+  { "id": 349158, "name": "Shibin al Kawm", "country": "EG"}
+  { "id": 352951, "name": "Mallawi", "country": "EG"}
+  { "id": 360761, "name": "Al Mansurah", "country": "EG"}
+  { "id": 362610, "name": "Abū Ḩammād al Maḩaţţah", "country": "EG"}
+  { "id": 355628, "name": "Idku", "country": "EG"}
+  { "id": 350203, "name": "Rosetta", "country": "EG"}
+  { "id": 351434, "name": "Naj Hammadi", "country": "EG"}
+  { "id": 355026, "name": "Jirja", "country": "EG"}
+  { "id": 360997, "name": "Muḩāfaz̧at al Jīzah", "country": "EG"}
+  { "id": 359900, "name": "As Saff", "country": "EG"}
+  { "id": 358840, "name": "Bilbays", "country": "EG"}
+  { "id": 346315, "name": "Wāsiţ", "country": "EG"}
+  { "id": 353802, "name": "Kawm Umbu", "country": "EG"}
+  { "id": 355015, "name": "Jizayy", "country": "EG"}
+  { "id": 354500, "name": "Muḩāfaz̧at Kafr ash Shaykh", "country": "EG"}
+  { "id": 359304, "name": "Balṭîm", "country": "EG"}
+  { "id": 411165, "name": "Idfu", "country": "EG"}
+  { "id": 352603, "name": "Muḩāfaz̧at Maţrūḩ", "country": "EG"}
+  { "id": 352733, "name": "Marsa Matruh", "country": "EG"}
+  { "id": 2335196, "name": "Kano State", "country": "NG"}
+  { "id": 2335204, "name": "Kano", "country": "NG"}
+  { "id": 2327735, "name": "Ogbomoso", "country": "NG"}
+  { "id": 2565343, "name": "Edo", "country": "NG"}
+  { "id": 2347283, "name": "Benin City", "country": "NG"}
+  { "id": 2327546, "name": "Ogun State", "country": "NG"}
+  { "id": 2352947, "name": "Abeokuta", "country": "NG"}
+  { "id": 2597365, "name": "Osun State", "country": "NG"}
+  { "id": 2325590, "name": "Osogbo", "country": "NG"}
+  { "id": 2326168, "name": "Ondo State", "country": "NG"}
+  { "id": 2350841, "name": "Akure", "country": "NG"}
+  { "id": 2347470, "name": "Bauchi", "country": "NG"}
+  { "id": 2595347, "name": "Gombe State", "country": "NG"}
+  { "id": 2340451, "name": "Gombe", "country": "NG"}
+  { "id": 2345891, "name": "Cross River State", "country": "NG"}
+  { "id": 2338242, "name": "Ikom", "country": "NG"}
+  { "id": 2334797, "name": "Katsina State", "country": "NG"}
+  { "id": 2334802, "name": "Katsina", "country": "NG"}
+  { "id": 2597364, "name": "Kogi State", "country": "NG"}
+  { "id": 2331939, "name": "Lokoja", "country": "NG"}
+  { "id": 2346794, "name": "Borno State", "country": "NG"}
+  { "id": 2331447, "name": "Maiduguri", "country": "NG"}
+  { "id": 2328925, "name": "Niger State", "country": "NG"}
+  { "id": 2330100, "name": "Minna", "country": "NG"}
+  { "id": 2349961, "name": "Anambra State", "country": "NG"}
+  { "id": 2326016, "name": "Onitsha", "country": "NG"}
+  { "id": 2322907, "name": "Sokoto State", "country": "NG"}
+  { "id": 2322911, "name": "Sokoto", "country": "NG"}
+  { "id": 2565341, "name": "Delta State", "country": "NG"}
+  { "id": 2319133, "name": "Warri", "country": "NG"}
+  { "id": 2565342, "name": "Adamawa State", "country": "NG"}
+  { "id": 2318044, "name": "Yola", "country": "NG"}
+  { "id": 2318560, "name": "Wusasa", "country": "NG"}
+  { "id": 2327879, "name": "Offa", "country": "NG"}
+  { "id": 2336905, "name": "Iwo", "country": "NG"}
+  { "id": 2324828, "name": "Plateau State", "country": "NG"}
+  { "id": 2335953, "name": "Jos", "country": "NG"}
+  { "id": 2350813, "name": "Akwa Ibom State", "country": "NG"}
+  { "id": 7074978, "name": "Afaha Oku", "country": "NG"}
+  { "id": 2565340, "name": "Abia State", "country": "NG"}
+  { "id": 2353151, "name": "Aba", "country": "NG"}
+  { "id": 2325200, "name": "Oyo", "country": "NG"}
+  { "id": 2338900, "name": "Ife", "country": "NG"}
+  { "id": 2347209, "name": "Bida", "country": "NG"}
+  { "id": 2331303, "name": "Maitama", "country": "NG"}
+  { "id": 2334528, "name": "Ketu Adieowe", "country": "NG"}
+  { "id": 2595346, "name": "Ekiti State", "country": "NG"}
+  { "id": 2352379, "name": "Ado-Ekiti", "country": "NG"}
+  { "id": 2348395, "name": "Badagry", "country": "NG"}
+  { "id": 2325458, "name": "Otta", "country": "NG"}
+  { "id": 2342955, "name": "Eyamba Town", "country": "NG"}
+  { "id": 2328151, "name": "Obudu", "country": "NG"}
+  { "id": 2337181, "name": "Iseyin", "country": "NG"}
+  { "id": 2347954, "name": "Bama", "country": "NG"}
+  { "id": 2325688, "name": "Oron", "country": "NG"}
+  { "id": 2327445, "name": "Ohunene", "country": "NG"}
+  { "id": 2346995, "name": "Biu", "country": "NG"}
+  { "id": 160192, "name": "Dodoma Region", "country": "TZ"}
+  { "id": 160196, "name": "Dodoma", "country": "TZ"}
+  { "id": 159067, "name": "Iringa Region", "country": "TZ"}
+  { "id": 159071, "name": "Iringa", "country": "TZ"}
+  { "id": 877744, "name": "Mtwara Region", "country": "TZ"}
+  { "id": 877747, "name": "Mtwara", "country": "TZ"}
+  { "id": 149653, "name": "Tabora Region", "country": "TZ"}
+  { "id": 149658, "name": "Tabora", "country": "TZ"}
+  { "id": 154380, "name": "Mbeya", "country": "TZ"}
+  { "id": 154775, "name": "Mara Region", "country": "TZ"}
+  { "id": 152451, "name": "Musoma", "country": "TZ"}
+  { "id": 153220, "name": "Morogoro", "country": "TZ"}
+  { "id": 149876, "name": "Singida Region", "country": "TZ"}
+  { "id": 149879, "name": "Singida", "country": "TZ"}
+  { "id": 150004, "name": "Shinyanga Region", "country": "TZ"}
+  { "id": 150006, "name": "Shinyanga", "country": "TZ"}
+  { "id": 157732, "name": "Kigoma Region", "country": "TZ"}
+  { "id": 157738, "name": "Kigoma", "country": "TZ"}
+  { "id": 148679, "name": "Kagera Region", "country": "TZ"}
+  { "id": 160961, "name": "Bukoba", "country": "TZ"}
+  { "id": 917524, "name": "Copperbelt Province", "country": "ZM"}
+  { "id": 910111, "name": "Livingstone", "country": "ZM"}
+  { "id": 905395, "name": "Mufulira", "country": "ZM"}
+  { "id": 916095, "name": "Kabwe", "country": "ZM"}
+  { "id": 917889, "name": "Chiwempala", "country": "ZM"}
+  { "id": 906054, "name": "Mongu", "country": "ZM"}
+  { "id": 918702, "name": "Chipata", "country": "ZM"}
+  { "id": 2249222, "name": "Louga", "country": "SN"}
+  { "id": 2250338, "name": "Keur Issa Bambara", "country": "SN"}
+  { "id": 2250804, "name": "Région de Kaolack", "country": "SN"}
+  { "id": 2244460, "name": "Tiofak", "country": "SN"}
+  { "id": 2252308, "name": "Région de Diourbel", "country": "SN"}
+  { "id": 2253301, "name": "Dangol", "country": "SN"}
+  { "id": 2246608, "name": "Pourham", "country": "SN"}
+  { "id": 2246678, "name": "Pikine", "country": "SN"}
+  { "id": 2248698, "name": "Mbake", "country": "SN"}
+  { "id": 2248409, "name": "Mekhe", "country": "SN"}
+  { "id": 2243973, "name": "Yof", "country": "SN"}
+  { "id": 2244990, "name": "Région de Tambacounda", "country": "SN"}
+  { "id": 2252263, "name": "Djidje Kounda", "country": "SN"}
+  { "id": 2246550, "name": "Rhouma", "country": "SN"}
+  { "id": 2244221, "name": "Touré", "country": "SN"}
+  { "id": 2249281, "name": "Linguère", "country": "SN"}
+  { "id": 2251055, "name": "Kabrousse", "country": "SN"}
+  { "id": 2253901, "name": "Bignona", "country": "SN"}
+  { "id": 2253348, "name": "Dakar Dodj", "country": "SN"}
+  { "id": 2251354, "name": "Gouye Gal", "country": "SN"}
+  { "id": 2251339, "name": "Grand Dakar", "country": "SN"}
+  { "id": 2245709, "name": "Sébikhoutane", "country": "SN"}
+  { "id": 2244177, "name": "Velingara", "country": "SN"}
+  { "id": 7303937, "name": "Région de Sédhiou", "country": "SN"}
+  { "id": 2245704, "name": "Sedhiou", "country": "SN"}
+  { "id": 2294286, "name": "Upper West Region", "country": "GH"}
+  { "id": 2294342, "name": "Tumu", "country": "GH"}
+  { "id": 2301360, "name": "Eastern Region", "country": "GH"}
+  { "id": 2299522, "name": "Koforidua", "country": "GH"}
+  { "id": 2294291, "name": "Upper East Region", "country": "GH"}
+  { "id": 2302821, "name": "Bolgatanga", "country": "GH"}
+  { "id": 370737, "name": "Malakal", "country": "SS"}
+  { "id": 408655, "name": "Central Equatoria State", "country": "SS"}
+  { "id": 373303, "name": "Juba", "country": "SS"}
+  { "id": 365286, "name": "Um Bārid", "country": "SD"}
+  { "id": 377039, "name": "Port Sudan", "country": "SD"}
+  { "id": 380308, "name": "Abyei", "country": "SD"}
+  { "id": 408650, "name": "Unity State", "country": "SS"}
+  { "id": 377472, "name": "Bentiu", "country": "SS"}
+  { "id": 371101, "name": "Ludu", "country": "SD"}
+  { "id": 363656, "name": "Yambio", "country": "SS"}
+  { "id": 379251, "name": "Khartoum North", "country": "SD"}
+  { "id": 408663, "name": "Kassala State", "country": "SD"}
+  { "id": 372753, "name": "Kassala", "country": "SD"}
+  { "id": 2223602, "name": "North-West Region", "country": "CM"}
+  { "id": 2234974, "name": "Bamenda", "country": "CM"}
+  { "id": 2231538, "name": "Foto", "country": "CM"}
+  { "id": 2221788, "name": "South-West Region", "country": "CM"}
+  { "id": 2233410, "name": "Buea", "country": "CM"}
+  { "id": 2229752, "name": "Kumba", "country": "CM"}
+  { "id": 2221504, "name": "Tiko", "country": "CM"}
+  { "id": 2223603, "name": "North Region", "country": "CM"}
+  { "id": 2231320, "name": "Garoua", "country": "CM"}
+  { "id": 2228373, "name": "Maroua", "country": "CM"}
+  { "id": 2231565, "name": "Fontain", "country": "CM"}
+  { "id": 2234536, "name": "Belabo", "country": "CM"}
+  { "id": 7109573, "name": "Djo", "country": "CM"}
+  { "id": 2223638, "name": "Nlongo", "country": "CM"}
+  { "id": 2233252, "name": "Dang", "country": "CM"}
+  { "id": 2232652, "name": "Dombé", "country": "CM"}
+  { "id": 2234663, "name": "Batouri", "country": "CM"}
+  { "id": 2224513, "name": "Ngoulmokong", "country": "CM"}
+  { "id": 2221046, "name": "Yabassi", "country": "CM"}
+  { "id": 2224162, "name": "Nkan", "country": "CM"}
+  { "id": 925074, "name": "Nchesi", "country": "MW"}
+  { "id": 923292, "name": "Zomba District", "country": "MW"}
+  { "id": 923295, "name": "Zomba", "country": "MW"}
+  { "id": 928531, "name": "Kasungu District", "country": "MW"}
+  { "id": 928534, "name": "Kasungu", "country": "MW"}
+  { "id": 930283, "name": "Thyolo District", "country": "MW"}
+  { "id": 923652, "name": "Thyolo", "country": "MW"}
+  { "id": 3348303, "name": "Huila Province", "country": "AO"}
+  { "id": 3347762, "name": "Lubango", "country": "AO"}
+  { "id": 3372346, "name": "Lobito", "country": "AO"}
+  { "id": 2243271, "name": "Cabinda", "country": "AO"}
+  { "id": 3349234, "name": "Província do Kwanza Sul", "country": "AO"}
+  { "id": 2239861, "name": "Malanje", "country": "AO"}
+  { "id": 3348310, "name": "Província do Huambo", "country": "AO"}
+  { "id": 3348313, "name": "Huambo", "country": "AO"}
+  { "id": 3351660, "name": "Província de Benguela", "country": "AO"}
+  { "id": 3351663, "name": "Benguela", "country": "AO"}
+  { "id": 145531, "name": "Saurimo", "country": "AO"}
+  { "id": 7866653, "name": "Quilamba", "country": "AO"}
+  { "id": 3347016, "name": "Namibe Province", "country": "AO"}
+  { "id": 3347019, "name": "Namibe", "country": "AO"}
+  { "id": 400741, "name": "Eastern Province", "country": "KE"}
+  { "id": 186827, "name": "Meru", "country": "KE"}
+  { "id": 196231, "name": "Isiolo", "country": "KE"}
+  { "id": 191220, "name": "Kitale", "country": "KE"}
+  { "id": 198476, "name": "Embu", "country": "KE"}
+  { "id": 400745, "name": "North Eastern Province", "country": "KE"}
+  { "id": 197745, "name": "Garissa", "country": "KE"}
+  { "id": 181656, "name": "Parklands", "country": "KE"}
+  { "id": 189741, "name": "Lamu", "country": "KE"}
+  { "id": 2397842, "name": "Province du Moyen-Ogooué", "country": "GA"}
+  { "id": 2401325, "name": "Dakar", "country": "GA"}
+  { "id": 2400547, "name": "Gamba", "country": "GA"}
+  { "id": 2400454, "name": "Province du Haut-Ogooué", "country": "GA"}
+  { "id": 2397574, "name": "Ngobounda", "country": "GA"}
+  { "id": 2454390, "name": "Kouoro", "country": "ML"}
+  { "id": 2451185, "name": "Sikasso", "country": "ML"}
+  { "id": 2454532, "name": "Région de Koulikoro", "country": "ML"}
+  { "id": 2454530, "name": "Koulikoro", "country": "ML"}
+  { "id": 2460489, "name": "Bandiagara", "country": "ML"}
+  { "id": 2458334, "name": "Douentza", "country": "ML"}
+  { "id": 2452655, "name": "Niono", "country": "ML"}
+  { "id": 2451285, "name": "Sévaré", "country": "ML"}
+  { "id": 6910806, "name": "Kala Dangan", "country": "ML"}
+  { "id": 2449066, "name": "Région de Tombouctou", "country": "ML"}
+  { "id": 2456917, "name": "Goundam", "country": "ML"}
+  { "id": 2597275, "name": "Département du Littoral", "country": "BJ"}
+  { "id": 2394819, "name": "Cotonou", "country": "BJ"}
+  { "id": 2394992, "name": "Département du Borgou", "country": "BJ"}
+  { "id": 2392204, "name": "Parakou", "country": "BJ"}
+  { "id": 2392325, "name": "Département de l’ Ouémé", "country": "BJ"}
+  { "id": 2392087, "name": "Porto-Novo", "country": "BJ"}
+  { "id": 2394092, "name": "Godomè", "country": "BJ"}
+  { "id": 2395049, "name": "Bohicon", "country": "BJ"}
+  { "id": 2392897, "name": "Lokossa", "country": "BJ"}
+  { "id": 2392895, "name": "Lokossa-Tchikomé", "country": "BJ"}
+  { "id": 2392601, "name": "Natitingou", "country": "BJ"}
+  { "id": 2395504, "name": "Département de l’ Atlantique", "country": "BJ"}
+  { "id": 2392308, "name": "Ouidah", "country": "BJ"}
+  { "id": 2395635, "name": "Allada", "country": "BJ"}
+  { "id": 7670857, "name": "Atsinanana", "country": "MG"}
+  { "id": 1053384, "name": "Toamasina", "country": "MG"}
+  { "id": 7670849, "name": "Boeny", "country": "MG"}
+  { "id": 1062663, "name": "Mahajanga", "country": "MG"}
+  { "id": 1069166, "name": "Antsirabe", "country": "MG"}
+  { "id": 1082992, "name": "Ambatolampy", "country": "MG"}
+  { "id": 7670913, "name": "Atsimo-Andrefana", "country": "MG"}
+  { "id": 1055429, "name": "Toliara", "country": "MG"}
+  { "id": 1055433, "name": "Fort Dauphin", "country": "MG"}
+  { "id": 7670905, "name": "Haute Matsiatra", "country": "MG"}
+  { "id": 1064890, "name": "Fianarantsoa", "country": "MG"}
+  { "id": 1058532, "name": "Moramanga", "country": "MG"}
+  { "id": 1066514, "name": "Betafo", "country": "MG"}
+  { "id": 1083724, "name": "Ambanja", "country": "MG"}
+  { "id": 1082243, "name": "Ambilobe", "country": "MG"}
+  { "id": 1080968, "name": "Ambodisatirana", "country": "MG"}
+  { "id": 1068971, "name": "Antsohihy", "country": "MG"}
+  { "id": 1076105, "name": "Andoany", "country": "MG"}
+  { "id": 2429060, "name": "Région du Logone Occidental", "country": "TD"}
+  { "id": 2427455, "name": "Moundou", "country": "TD"}
+  { "id": 242246, "name": "Région du Ouaddaï", "country": "TD"}
+  { "id": 245785, "name": "Abeche", "country": "TD"}
+  { "id": 2434478, "name": "Région du Chari-Baguirmi", "country": "TD"}
+  { "id": 2427123, "name": "NDjamena", "country": "TD"}
+  { "id": 2431555, "name": "Région du Guéra", "country": "TD"}
+  { "id": 2427637, "name": "Mongo", "country": "TD"}
+  { "id": 933210, "name": "North East District", "country": "BW"}
+  { "id": 933778, "name": "Francistown", "country": "BW"}
+  { "id": 933099, "name": "Selebi-Phikwe", "country": "BW"}
+  { "id": 7745146, "name": "Magotane", "country": "BW"}
+  { "id": 933182, "name": "Palapye", "country": "BW"}
+  { "id": 933088, "name": "Serowe", "country": "BW"}
+  { "id": 7746220, "name": "Gamafikana", "country": "BW"}
+  { "id": 933654, "name": "Kgatleng District", "country": "BW"}
+  { "id": 933340, "name": "Mochudi", "country": "BW"}
+  { "id": 933562, "name": "Kweneng District", "country": "BW"}
+  { "id": 933872, "name": "Borakalalop Camp", "country": "BW"}
+  { "id": 7654016, "name": "Mmale", "country": "BW"}
+  { "id": 7752612, "name": "Marotse", "country": "BW"}
+  { "id": 7884617, "name": "Moko", "country": "BW"}
+  { "id": 933758, "name": "Ghanzi District", "country": "BW"}
+  { "id": 933759, "name": "Ghanzi", "country": "BW"}
+  { "id": 2214812, "name": "Mu‘askar Jālū", "country": "LY"}
+  { "id": 2214813, "name": "Bāb al ‘Azīzīyah", "country": "LY"}
+  { "id": 88319, "name": "Benghazi", "country": "LY"}
+  { "id": 88823, "name": "Al ‘Urūbah", "country": "LY"}
+  { "id": 87204, "name": "Sha‘bīyat Darnah", "country": "LY"}
+  { "id": 87205, "name": "Darnah", "country": "LY"}
+  { "id": 2210553, "name": "Sha‘bīyat Surt", "country": "LY"}
+  { "id": 2210554, "name": "Surt", "country": "LY"}
+  { "id": 443289, "name": "Sha‘bīyat al Jabal al Akhḑar", "country": "LY"}
+  { "id": 89055, "name": "Al Bayda", "country": "LY"}
+  { "id": 7602688, "name": "Sha‘bīyat al Buţnān", "country": "LY"}
+  { "id": 81302, "name": "Tobruk", "country": "LY"}
+  { "id": 3374766, "name": "Republic of Cape Verde", "country": "CV"}
+  { "id": 49518, "name": "Republic of Rwanda", "country": "RW"}
+  { "id": 1026014, "name": "Tete", "country": "MZ"}
+  { "id": 1024312, "name": "Província de Zambézia", "country": "MZ"}
+  { "id": 1028434, "name": "Quelimane", "country": "MZ"}
+  { "id": 1040947, "name": "Província de Manica", "country": "MZ"}
+  { "id": 1049261, "name": "Chimoio", "country": "MZ"}
+  { "id": 1033354, "name": "Província de Nampula", "country": "MZ"}
+  { "id": 1035025, "name": "Cidade de Nacala", "country": "MZ"}
+  { "id": 1033356, "name": "Nampula", "country": "MZ"}
+  { "id": 1026804, "name": "Província de Sofala", "country": "MZ"}
+  { "id": 1052373, "name": "Beira", "country": "MZ"}
+  { "id": 1046058, "name": "Província de Gaza", "country": "MZ"}
+  { "id": 1024552, "name": "Xai-Xai", "country": "MZ"}
+  { "id": 1037807, "name": "Miceti", "country": "MZ"}
+  { "id": 1045110, "name": "Província de Inhambane", "country": "MZ"}
+  { "id": 1045114, "name": "Inhambane", "country": "MZ"}
+  { "id": 2413451, "name": "Gambia", "country": "GM"}
+  { "id": 1106788, "name": "Dubreuil", "country": "MU"}
+  { "id": 934718, "name": "Black River District", "country": "MU"}
+  { "id": 934778, "name": "Bambous", "country": "MU"}
+  { "id": 934090, "name": "Rivière du Rempart District", "country": "MU"}
+  { "id": 1106771, "name": "Mapou", "country": "MU"}
+  { "id": 934133, "name": "Quartier Militaire", "country": "MU"}
+  { "id": 934032, "name": "Saint Pierre", "country": "MU"}
+  { "id": 1106763, "name": "Gros Cailloux", "country": "MU"}
+  { "id": 1106782, "name": "Espérance", "country": "MU"}
+  { "id": 934195, "name": "Petite Riviere", "country": "MU"}
+  { "id": 934466, "name": "Grand Port District", "country": "MU"}
+  { "id": 934240, "name": "New Grove", "country": "MU"}
+  { "id": 934072, "name": "Rose Belle", "country": "MU"}
+  { "id": 1547449, "name": "Rodrigues", "country": "MU"}
+  { "id": 1545752, "name": "Port Mathurin", "country": "MU"}
+  { "id": 934262, "name": "Montagne Blanche", "country": "MU"}
+  { "id": 934522, "name": "Flacq District", "country": "MU"}
+  { "id": 934631, "name": "Centre de Flacq", "country": "MU"}
+  { "id": 934693, "name": "Bon Accueil", "country": "MU"}
+  { "id": 934739, "name": "Belle Vue Maurel", "country": "MU"}
+  { "id": 934089, "name": "Grande Riviere Noire", "country": "MU"}
+  { "id": 934091, "name": "Riviere du Rempart", "country": "MU"}
+  { "id": 934017, "name": "Savanne District", "country": "MU"}
+  { "id": 934614, "name": "Chemin Grenier", "country": "MU"}
+  { "id": 933995, "name": "Souillac", "country": "MU"}
+  { "id": 934479, "name": "Grand Gaube", "country": "MU"}
+  { "id": 934750, "name": "Bel Air", "country": "MU"}
+  { "id": 934513, "name": "Fond du Sac", "country": "MU"}
+  { "id": 934085, "name": "Roches Noire", "country": "MU"}
+  { "id": 1106638, "name": "Mare La Chaux", "country": "MU"}
+  { "id": 934303, "name": "Mare Tabac", "country": "MU"}
+  { "id": 934740, "name": "Belle Rose", "country": "MU"}
+  { "id": 1106642, "name": "Belle Mare", "country": "MU"}
+  { "id": 933953, "name": "Trou aux Biches", "country": "MU"}
+  { "id": 1106721, "name": "La Flora", "country": "MU"}
+  { "id": 933970, "name": "The Vale", "country": "MU"}
+  { "id": 1106815, "name": "Vallée des Prêtres", "country": "MU"}
+  { "id": 934127, "name": "Quatre Soeurs", "country": "MU"}
+  { "id": 933951, "name": "Trou d’Eau Douce", "country": "MU"}
+  { "id": 1106693, "name": "Union Park", "country": "MU"}
+  { "id": 1106625, "name": "D’Epinay", "country": "MU"}
+  { "id": 934092, "name": "Rivière du Poste", "country": "MU"}
+  { "id": 934076, "name": "Roche Terre", "country": "MU"}
+  { "id": 934052, "name": "Sainte Croix", "country": "MU"}
+  { "id": 934343, "name": "L’Escalier", "country": "MU"}
+  { "id": 934818, "name": "Abercrombie", "country": "MU"}
+  { "id": 1106807, "name": "Plaine Verte", "country": "MU"}
+  { "id": 934309, "name": "Mare d’Albert", "country": "MU"}
+  { "id": 934159, "name": "Pont Blanc", "country": "MU"}
+  { "id": 934442, "name": "Henrietta", "country": "MU"}
+  { "id": 1106589, "name": "Cluny", "country": "MU"}
+  { "id": 934749, "name": "Grand Bel Air", "country": "MU"}
+  { "id": 1106585, "name": "Baie du Cap", "country": "MU"}
+  { "id": 1106803, "name": "Bain des Dames", "country": "MU"}
+  { "id": 934734, "name": "Bell Village", "country": "MU"}
+  { "id": 934705, "name": "Bois des Amourettes", "country": "MU"}
+  { "id": 2572183, "name": "Commune de Brazzaville", "country": "CG"}
+  { "id": 2260535, "name": "Brazzaville", "country": "CG"}
+  { "id": 2258738, "name": "Région du Kouilou", "country": "CG"}
+  { "id": 2255414, "name": "Pointe-Noire", "country": "CG"}
+  { "id": 2258314, "name": "Losange", "country": "CG"}
+  { "id": 233508, "name": "Entebbe", "country": "UG"}
+  { "id": 233709, "name": "Mpigi District", "country": "UG"}
+  { "id": 229024, "name": "Mpigi", "country": "UG"}
+  { "id": 443365, "name": "Soroti District", "country": "UG"}
+  { "id": 226975, "name": "Opiyai", "country": "UG"}
+  { "id": 443349, "name": "Lira District", "country": "UG"}
+  { "id": 230166, "name": "Lira", "country": "UG"}
+  { "id": 443356, "name": "Moroto District", "country": "UG"}
+  { "id": 228512, "name": "Nadiket", "country": "UG"}
+  { "id": 443366, "name": "Tororo District", "country": "UG"}
+  { "id": 226110, "name": "Tororo", "country": "UG"}
+  { "id": 6930701, "name": "Boucle du Mouhoun", "country": "BF"}
+  { "id": 2357858, "name": "Province du Mouhoun", "country": "BF"}
+  { "id": 2361477, "name": "Dedougou", "country": "BF"}
+  { "id": 6930707, "name": "Centre-Ouest", "country": "BF"}
+  { "id": 2361988, "name": "Province du Boulkiemdé", "country": "BF"}
+  { "id": 2358946, "name": "Koudougou", "country": "BF"}
+  { "id": 6930709, "name": "Est", "country": "BF"}
+  { "id": 2360223, "name": "Province du Gourma", "country": "BF"}
+  { "id": 2360886, "name": "Fada NGourma", "country": "BF"}
+  { "id": 6930711, "name": "Nord", "country": "BF"}
+  { "id": 2356667, "name": "Province du Passoré", "country": "BF"}
+  { "id": 2353688, "name": "Yako", "country": "BF"}
+  { "id": 6930712, "name": "Plateau-Central", "country": "BF"}
+  { "id": 2356983, "name": "Province d' Oubritenga", "country": "BF"}
+  { "id": 2353257, "name": "Ziniare", "country": "BF"}
+  { "id": 6930710, "name": "Hauts-Bassins", "country": "BF"}
+  { "id": 2360075, "name": "Province du Houet", "country": "BF"}
+  { "id": 2361145, "name": "Dogona", "country": "BF"}
+  { "id": 2355211, "name": "Province du Sourou", "country": "BF"}
+  { "id": 2354176, "name": "Tougan", "country": "BF"}
+  { "id": 2403846, "name": "Republic of Sierra Leone", "country": "SL"}
+  { "id": 879431, "name": "Victoria Falls", "country": "ZW"}
+  { "id": 1105843, "name": "Bulawayo Province", "country": "ZW"}
+  { "id": 894701, "name": "Bulawayo", "country": "ZW"}
+  { "id": 884141, "name": "Norton", "country": "ZW"}
+  { "id": 886843, "name": "Mashonaland Central Province", "country": "ZW"}
+  { "id": 891099, "name": "Glendale", "country": "ZW"}
+  { "id": 892876, "name": "Concession", "country": "ZW"}
+  { "id": 1106398, "name": "Mbare", "country": "ZW"}
+  { "id": 2314302, "name": "Kinshasa", "country": "CD"}
+  { "id": 2312096, "name": "Ndolo", "country": "CD"}
+  { "id": 205703, "name": "Province du Katanga", "country": "CD"}
+  { "id": 922704, "name": "Lubumbashi", "country": "CD"}
+  { "id": 206938, "name": "Province du Nord-Kivu", "country": "CD"}
+  { "id": 216281, "name": "Goma", "country": "CD"}
+  { "id": 212731, "name": "Kisangani", "country": "CD"}
+  { "id": 205413, "name": "Province du Sud-Kivu", "country": "CD"}
+  { "id": 217831, "name": "Bukavu", "country": "CD"}
+  { "id": 2317277, "name": "Province du Bas-Congo", "country": "CD"}
+  { "id": 2313002, "name": "Matadi", "country": "CD"}
+  { "id": 922773, "name": "Kolwezi", "country": "CD"}
+  { "id": 216541, "name": "Fizi", "country": "CD"}
+  { "id": 214478, "name": "Kananga", "country": "CD"}
+  { "id": 922741, "name": "Likasi", "country": "CD"}
+  { "id": 217562, "name": "Butembo", "country": "CD"}
+  { "id": 217695, "name": "Bunia", "country": "CD"}
+  { "id": 923051, "name": "Kamina", "country": "CD"}
+  { "id": 218241, "name": "Bonema", "country": "CD"}
+  { "id": 216661, "name": "Province de l’ Équateur", "country": "CD"}
+  { "id": 216404, "name": "Gbadolite", "country": "CD"}
+  { "id": 214755, "name": "Kama", "country": "CD"}
+  { "id": 8070734, "name": "Bolaka", "country": "CD"}
+  { "id": 204953, "name": "Tshikapa", "country": "CD"}
+  { "id": 2317396, "name": "Province de Bandundu", "country": "CD"}
+  { "id": 2317397, "name": "Bandundu", "country": "CD"}
+  { "id": 2314705, "name": "Kikwit", "country": "CD"}
+  { "id": 2315728, "name": "Gemena", "country": "CD"}
+  { "id": 2312892, "name": "Mbanza", "country": "CD"}
+  { "id": 208891, "name": "Mokumbano", "country": "CD"}
+  { "id": 214974, "name": "Kalemie", "country": "CD"}
+  { "id": 922944, "name": "Kasumbalesa", "country": "CD"}
+  { "id": 211647, "name": "Lodja", "country": "CD"}
+  { "id": 214138, "name": "Province du Kasaï-Oriental", "country": "CD"}
+  { "id": 209228, "name": "Mbuji-Mayi", "country": "CD"}
+  { "id": 217570, "name": "Buta", "country": "CD"}
+  { "id": 2441289, "name": "Maradi", "country": "NE"}
+  { "id": 2441291, "name": "Maradi", "country": "NE"}
+  { "id": 2448085, "name": "Agadez", "country": "NE"}
+  { "id": 2447513, "name": "Arlit", "country": "NE"}
+  { "id": 2317301, "name": "Baraka", "country": "CD"}
+  { "id": 934913, "name": "Nhlangano", "country": "SZ"}
+  { "id": 934966, "name": "Mhlume", "country": "SZ"}
+  { "id": 935048, "name": "Lobamba", "country": "SZ"}
+  { "id": 935113, "name": "Big Bend", "country": "SZ"}
+  { "id": 935042, "name": "Lubombo District", "country": "SZ"}
+  { "id": 934851, "name": "Siteki", "country": "SZ"}
+  { "id": 2365266, "name": "Lomé", "country": "TG"}
+  { "id": 2364041, "name": "Tabligbo", "country": "TG"}
+  { "id": 2365560, "name": "Kpalime", "country": "TG"}
+  { "id": 2422464, "name": "Capitale d’État-Zone Spéciale de Conakry", "country": "GN"}
+  { "id": 2422488, "name": "Camayenne", "country": "GN"}
+  { "id": 2422923, "name": "Préfecture de Boké", "country": "GN"}
+  { "id": 2420056, "name": "Kamsar", "country": "GN"}
+  { "id": 2418360, "name": "Préfecture de Labé", "country": "GN"}
+  { "id": 2418362, "name": "Labe", "country": "GN"}
+  { "id": 2595304, "name": "Préfecture de Lola", "country": "GN"}
+  { "id": 2418092, "name": "Lola", "country": "GN"}
+  { "id": 2419991, "name": "Préfecture de Kankan", "country": "GN"}
+  { "id": 2419992, "name": "Kankan", "country": "GN"}
+  { "id": 2416085, "name": "Sangarédi", "country": "GN"}
+  { "id": 2416968, "name": "Préfecture de Nzérékoré", "country": "GN"}
+  { "id": 2416969, "name": "Nzerekore", "country": "GN"}
+  { "id": 2417831, "name": "Préfecture de Mamou", "country": "GN"}
+  { "id": 2417834, "name": "Mamou", "country": "GN"}
+  { "id": 2422924, "name": "Boke", "country": "GN"}
+  { "id": 2418595, "name": "Préfecture de Koundara", "country": "GN"}
+  { "id": 2418596, "name": "Koundara", "country": "GN"}
+  { "id": 2423124, "name": "Préfecture de Beyla", "country": "GN"}
+  { "id": 2423126, "name": "Beyla", "country": "GN"}
+  { "id": 2419470, "name": "Préfecture de Kissidougou", "country": "GN"}
+  { "id": 2419472, "name": "Kissidougou", "country": "GN"}
+  { "id": 2420983, "name": "Préfecture de Forécariah", "country": "GN"}
+  { "id": 2420985, "name": "Forecariah", "country": "GN"}
+  { "id": 2422441, "name": "Préfecture de Dabola", "country": "GN"}
+  { "id": 2422442, "name": "Dabola", "country": "GN"}
+  { "id": 2421533, "name": "Préfecture de Dubréka", "country": "GN"}
+  { "id": 2421535, "name": "Dubreka", "country": "GN"}
+  { "id": 2275384, "name": "Republic of Liberia", "country": "LR"}
+  { "id": 241131, "name": "Victoria", "country": "SC"}
+  { "id": 241424, "name": "Bel Ombre", "country": "SC"}
+  { "id": 241423, "name": "Bel Ombre", "country": "SC"}
+  { "id": 241443, "name": "Anse Royale", "country": "SC"}
+  { "id": 2562055, "name": "Skhirat", "country": "MA"}
+  { "id": 2565228, "name": "Kasba Skhirat", "country": "MA"}
+  { "id": 2551808, "name": "Douar el Hajra", "country": "MA"}
+  { "id": 2548882, "name": "Région de Fès-Boulemane", "country": "MA"}
+  { "id": 6547286, "name": "Sefrou", "country": "MA"}
+  { "id": 6546442, "name": "Sefrou", "country": "MA"}
+  { "id": 2537545, "name": "Sefrou", "country": "MA"}
+  { "id": 2597549, "name": "Région de Doukkala-Abda", "country": "MA"}
+  { "id": 2537878, "name": "Safi", "country": "MA"}
+  { "id": 6546086, "name": "Safi", "country": "MA"}
+  { "id": 2537881, "name": "Safi", "country": "MA"}
+  { "id": 2562053, "name": "Skhirate-Temara", "country": "MA"}
+  { "id": 6545720, "name": "Temara", "country": "MA"}
+  { "id": 2529013, "name": "Temara", "country": "MA"}
+  { "id": 2528907, "name": "Tetouan", "country": "MA"}
+  { "id": 6546337, "name": "Martil", "country": "MA"}
+  { "id": 2542987, "name": "Martil", "country": "MA"}
+  { "id": 2549259, "name": "Essaouira", "country": "MA"}
+  { "id": 6546650, "name": "Essaouira", "country": "MA"}
+  { "id": 2549263, "name": "Essaouira", "country": "MA"}
+  { "id": 2551043, "name": "Dou Tourga", "country": "MA"}
+  { "id": 2555519, "name": "Ben Slimane", "country": "MA"}
+  { "id": 2529374, "name": "Tassoumat", "country": "MA"}
+  { "id": 2597555, "name": "Région de Tadla-Azilal", "country": "MA"}
+  { "id": 2555742, "name": "Beni-Mellal", "country": "MA"}
+  { "id": 6546831, "name": "Alkhalfia", "country": "MA"}
+  { "id": 2555745, "name": "Beni Mellal", "country": "MA"}
+  { "id": 2550076, "name": "El-Jadida", "country": "MA"}
+  { "id": 6546785, "name": "Azemmour", "country": "MA"}
+  { "id": 2556657, "name": "Azemmour", "country": "MA"}
+  { "id": 2544246, "name": "Khouribga", "country": "MA"}
+  { "id": 6546695, "name": "Khouribga", "country": "MA"}
+  { "id": 2544248, "name": "Khouribga", "country": "MA"}
+  { "id": 2543546, "name": "Larache", "country": "MA"}
+  { "id": 6545687, "name": "Larache", "country": "MA"}
+  { "id": 2543549, "name": "Larache", "country": "MA"}
+  { "id": 2545956, "name": "Inezgane-Ait Mellou", "country": "MA"}
+  { "id": 6545936, "name": "Inezgane", "country": "MA"}
+  { "id": 2545957, "name": "Inezgane", "country": "MA"}
+  { "id": 2550554, "name": "El Borj", "country": "MA"}
+  { "id": 2542828, "name": "Medina", "country": "MA"}
+  { "id": 2548818, "name": "Fnidek", "country": "MA"}
+  { "id": 2548830, "name": "Fkih Ben Salah", "country": "MA"}
+  { "id": 6546705, "name": "Berrechid", "country": "MA"}
+  { "id": 2556272, "name": "Berrechid", "country": "MA"}
+  { "id": 2556569, "name": "Azilal", "country": "MA"}
+  { "id": 6546525, "name": "Demnate", "country": "MA"}
+  { "id": 2552317, "name": "Demnate", "country": "MA"}
+  { "id": 2597551, "name": "Région de Guelmim-Es Smara", "country": "MA"}
+  { "id": 2530241, "name": "Tan-Tan", "country": "MA"}
+  { "id": 2553455, "name": "Chefchaouene", "country": "MA"}
+  { "id": 2548525, "name": "Guelmim", "country": "MA"}
+  { "id": 6546501, "name": "Guelmim", "country": "MA"}
+  { "id": 2548526, "name": "Guelmim", "country": "MA"}
+  { "id": 2560841, "name": "Aïn Harrouda", "country": "MA"}
+  { "id": 2529723, "name": "Tarhzout", "country": "MA"}
+  { "id": 2557055, "name": "Asilah", "country": "MA"}
+  { "id": 2529313, "name": "Taza", "country": "MA"}
+  { "id": 6547086, "name": "Guercif", "country": "MA"}
+  { "id": 2548489, "name": "Guercif", "country": "MA"}
+  { "id": 2542473, "name": "Mers el Hajer", "country": "MA"}
+  { "id": 2549340, "name": "Errachidia", "country": "MA"}
+  { "id": 2549356, "name": "Erfoud", "country": "MA"}
+  { "id": 2538027, "name": "Rissani", "country": "MA"}
+  { "id": 2546906, "name": "Ifrane", "country": "MA"}
+  { "id": 6546079, "name": "Ifrane", "country": "MA"}
+  { "id": 2546917, "name": "Ifrane", "country": "MA"}
+  { "id": 2544331, "name": "Khenifra", "country": "MA"}
+  { "id": 6546573, "name": "Khenifra", "country": "MA"}
+  { "id": 2544333, "name": "Khenifra", "country": "MA"}
+  { "id": 2537538, "name": "Segangane", "country": "MA"}
+  { "id": 2540409, "name": "Oulad Abdallah Barraho", "country": "MA"}
+  { "id": 6547284, "name": "Chichaoua", "country": "MA"}
+  { "id": 6546616, "name": "Chichaoua", "country": "MA"}
+  { "id": 2553303, "name": "Chichaoua", "country": "MA"}
+  { "id": 2535530, "name": "Sidi Bouqnadel", "country": "MA"}
+  { "id": 6546821, "name": "Kasba Tadla", "country": "MA"}
+  { "id": 2544720, "name": "Kasba Tadla", "country": "MA"}
+  { "id": 2564788, "name": "Aklim", "country": "MA"}
+  { "id": 2529647, "name": "Taroudannt", "country": "MA"}
+  { "id": 6545834, "name": "Taroudant", "country": "MA"}
+  { "id": 2529649, "name": "Taroudant", "country": "MA"}
+  { "id": 2548881, "name": "Fès al Bali", "country": "MA"}
+  { "id": 2544001, "name": "Ksar el Kebir", "country": "MA"}
+  { "id": 2532822, "name": "Sidi Yahia el Gharb", "country": "MA"}
+  { "id": 2550985, "name": "Driouch", "country": "MA"}
+  { "id": 2555885, "name": "Beni Drar", "country": "MA"}
+  { "id": 6547299, "name": "Nouaceur", "country": "MA"}
+  { "id": 6546277, "name": "Bouskoura", "country": "MA"}
+  { "id": 2554006, "name": "Bouskoura", "country": "MA"}
+  { "id": 6546898, "name": "Sidi Slimane", "country": "MA"}
+  { "id": 2532945, "name": "Sidi Slimane", "country": "MA"}
+  { "id": 2542898, "name": "M’dik", "country": "MA"}
+  { "id": 6547287, "name": "Berkane", "country": "MA"}
+  { "id": 6545678, "name": "Berkane", "country": "MA"}
+  { "id": 2555467, "name": "Berkane", "country": "MA"}
+  { "id": 2541833, "name": "Moulay Bou Selham", "country": "MA"}
+  { "id": 6547288, "name": "Jerada", "country": "MA"}
+  { "id": 6545872, "name": "Jerada", "country": "MA"}
+  { "id": 2545017, "name": "Jerada", "country": "MA"}
+  { "id": 2548885, "name": "Fes", "country": "MA"}
+  { "id": 2548880, "name": "Fès al Bali", "country": "MA"}
+  { "id": 2527087, "name": "Tiznit", "country": "MA"}
+  { "id": 6545624, "name": "Sidi Ifni", "country": "MA"}
+  { "id": 2534515, "name": "Sidi Ifni", "country": "MA"}
+  { "id": 6545434, "name": "Azilal", "country": "MA"}
+  { "id": 2556570, "name": "Azilal", "country": "MA"}
+  { "id": 2528867, "name": "Tiaouanine", "country": "MA"}
+  { "id": 2527915, "name": "Tineghir", "country": "MA"}
+  { "id": 2558545, "name": "Al Hoceima", "country": "MA"}
+  { "id": 2555086, "name": "Bou Beker", "country": "MA"}
+  { "id": 2487293, "name": "Mohammadia", "country": "DZ"}
+  { "id": 2501365, "name": "Chetma", "country": "DZ"}
+  { "id": 2477457, "name": "Wilaya de Tébessa", "country": "DZ"}
+  { "id": 2477461, "name": "Tebessa", "country": "DZ"}
+  { "id": 2503181, "name": "Boufarik", "country": "DZ"}
+  { "id": 2492910, "name": "Wilaya de Jijel", "country": "DZ"}
+  { "id": 2492738, "name": "Kaous", "country": "DZ"}
+  { "id": 2485582, "name": "Oued Rhiou", "country": "DZ"}
+  { "id": 2508226, "name": "Wilaya de Aïn Defla", "country": "DZ"}
+  { "id": 2491911, "name": "Khemis Miliana", "country": "DZ"}
+  { "id": 2479213, "name": "Wilaya de Souk Ahras", "country": "DZ"}
+  { "id": 2479215, "name": "Souk Ahras", "country": "DZ"}
+  { "id": 2498392, "name": "El Eulma", "country": "DZ"}
+  { "id": 2476027, "name": "Wilaya de Tipaza", "country": "DZ"}
+  { "id": 2491578, "name": "Kolea", "country": "DZ"}
+  { "id": 2481007, "name": "Sidi Bel Abbes", "country": "DZ"}
+  { "id": 2496740, "name": "Faubourg Marceau", "country": "DZ"}
+  { "id": 2492913, "name": "Jijel", "country": "DZ"}
+  { "id": 2495659, "name": "Wilaya de Guelma", "country": "DZ"}
+  { "id": 2495662, "name": "Guelma", "country": "DZ"}
+  { "id": 2477148, "name": "Ténès", "country": "DZ"}
+  { "id": 2506385, "name": "Arzew", "country": "DZ"}
+  { "id": 2482908, "name": "Rouiba", "country": "DZ"}
+  { "id": 2505865, "name": "Baba Hassen", "country": "DZ"}
+  { "id": 2490584, "name": "Maghnia", "country": "DZ"}
+  { "id": 2476700, "name": "Tighenif", "country": "DZ"}
+  { "id": 2486177, "name": "N’Gaous", "country": "DZ"}
+  { "id": 2491887, "name": "Wilaya de Khenchela", "country": "DZ"}
+  { "id": 2491889, "name": "Khenchela", "country": "DZ"}
+  { "id": 2501404, "name": "Cheria", "country": "DZ"}
+  { "id": 2505325, "name": "Wilaya de Bejaïa", "country": "DZ"}
+  { "id": 2506939, "name": "Aokas", "country": "DZ"}
+  { "id": 2502638, "name": "Wilaya de Boumerdes", "country": "DZ"}
+  { "id": 2476917, "name": "Thenia", "country": "DZ"}
+  { "id": 2497693, "name": "El Matmar", "country": "DZ"}
+  { "id": 2476660, "name": "Tigzirt", "country": "DZ"}
+  { "id": 2486825, "name": "Mouzaia", "country": "DZ"}
+  { "id": 2486682, "name": "Wilaya de M’Sila", "country": "DZ"}
+  { "id": 2481246, "name": "Sidi Aissa", "country": "DZ"}
+  { "id": 2490827, "name": "Levacher", "country": "DZ"}
+  { "id": 2494073, "name": "Hassi Bahbah", "country": "DZ"}
+  { "id": 2487882, "name": "Merouana", "country": "DZ"}
+  { "id": 2503699, "name": "Wilaya de Bordj Bou Arréridj", "country": "DZ"}
+  { "id": 2488202, "name": "Melouza", "country": "DZ"}
+  { "id": 2503829, "name": "Birtouta", "country": "DZ"}
+  { "id": 2484078, "name": "Rahouia", "country": "DZ"}
+  { "id": 2503156, "name": "Bougaa", "country": "DZ"}
+  { "id": 2503147, "name": "Bougara", "country": "DZ"}
+  { "id": 2474583, "name": "Zeralda", "country": "DZ"}
+  { "id": 2491134, "name": "Lakhdaria", "country": "DZ"}
+  
